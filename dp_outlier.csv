@@ -1,0 +1,3507 @@
+﻿cisp;regiao;ano;roubo_veiculo;flag
+19;Capital;2003;64;outlier_sup
+21;Capital;2003;166;outlier_sup
+22;Capital;2003;131;outlier_sup
+23;Capital;2003;124;outlier_sup
+24;Capital;2003;78;outlier_sup
+25;Capital;2003;118;outlier_sup
+27;Capital;2003;148;outlier_sup
+30;Capital;2003;96;outlier_sup
+33;Capital;2003;62;outlier_sup
+34;Capital;2003;93;outlier_sup
+35;Capital;2003;93;outlier_sup
+37;Capital;2003;82;outlier_sup
+38;Capital;2003;142;outlier_sup
+39;Capital;2003;135;outlier_sup
+40;Capital;2003;70;outlier_sup
+44;Capital;2003;105;outlier_sup
+52;Baixada Fluminense;2003;67;outlier_sup
+59;Baixada Fluminense;2003;203;outlier_sup
+64;Baixada Fluminense;2003;70;outlier_sup
+21;Capital;2003;178;outlier_sup
+22;Capital;2003;127;outlier_sup
+23;Capital;2003;120;outlier_sup
+24;Capital;2003;84;outlier_sup
+25;Capital;2003;92;outlier_sup
+27;Capital;2003;120;outlier_sup
+28;Capital;2003;71;outlier_sup
+29;Capital;2003;76;outlier_sup
+30;Capital;2003;86;outlier_sup
+34;Capital;2003;104;outlier_sup
+35;Capital;2003;105;outlier_sup
+37;Capital;2003;110;outlier_sup
+38;Capital;2003;124;outlier_sup
+39;Capital;2003;119;outlier_sup
+44;Capital;2003;82;outlier_sup
+52;Baixada Fluminense;2003;68;outlier_sup
+59;Baixada Fluminense;2003;171;outlier_sup
+64;Baixada Fluminense;2003;66;outlier_sup
+21;Capital;2003;149;outlier_sup
+22;Capital;2003;143;outlier_sup
+23;Capital;2003;86;outlier_sup
+24;Capital;2003;99;outlier_sup
+25;Capital;2003;75;outlier_sup
+27;Capital;2003;126;outlier_sup
+28;Capital;2003;66;outlier_sup
+29;Capital;2003;79;outlier_sup
+30;Capital;2003;85;outlier_sup
+34;Capital;2003;101;outlier_sup
+35;Capital;2003;87;outlier_sup
+37;Capital;2003;90;outlier_sup
+38;Capital;2003;121;outlier_sup
+39;Capital;2003;87;outlier_sup
+44;Capital;2003;80;outlier_sup
+52;Baixada Fluminense;2003;71;outlier_sup
+59;Baixada Fluminense;2003;143;outlier_sup
+64;Baixada Fluminense;2003;61;outlier_sup
+21;Capital;2003;176;outlier_sup
+22;Capital;2003;118;outlier_sup
+23;Capital;2003;105;outlier_sup
+24;Capital;2003;87;outlier_sup
+25;Capital;2003;99;outlier_sup
+27;Capital;2003;112;outlier_sup
+30;Capital;2003;78;outlier_sup
+34;Capital;2003;103;outlier_sup
+35;Capital;2003;109;outlier_sup
+37;Capital;2003;78;outlier_sup
+38;Capital;2003;88;outlier_sup
+39;Capital;2003;110;outlier_sup
+40;Capital;2003;61;outlier_sup
+44;Capital;2003;113;outlier_sup
+52;Baixada Fluminense;2003;64;outlier_sup
+59;Baixada Fluminense;2003;147;outlier_sup
+64;Baixada Fluminense;2003;63;outlier_sup
+20;Capital;2003;68;outlier_sup
+21;Capital;2003;184;outlier_sup
+22;Capital;2003;119;outlier_sup
+23;Capital;2003;117;outlier_sup
+24;Capital;2003;122;outlier_sup
+25;Capital;2003;92;outlier_sup
+27;Capital;2003;143;outlier_sup
+29;Capital;2003;68;outlier_sup
+30;Capital;2003;92;outlier_sup
+34;Capital;2003;132;outlier_sup
+35;Capital;2003;94;outlier_sup
+37;Capital;2003;142;outlier_sup
+38;Capital;2003;122;outlier_sup
+39;Capital;2003;83;outlier_sup
+44;Capital;2003;112;outlier_sup
+59;Baixada Fluminense;2003;157;outlier_sup
+64;Baixada Fluminense;2003;69;outlier_sup
+21;Capital;2003;108;outlier_sup
+22;Capital;2003;146;outlier_sup
+23;Capital;2003;90;outlier_sup
+24;Capital;2003;93;outlier_sup
+27;Capital;2003;122;outlier_sup
+29;Capital;2003;61;outlier_sup
+30;Capital;2003;80;outlier_sup
+34;Capital;2003;75;outlier_sup
+35;Capital;2003;67;outlier_sup
+37;Capital;2003;117;outlier_sup
+38;Capital;2003;110;outlier_sup
+39;Capital;2003;101;outlier_sup
+40;Capital;2003;68;outlier_sup
+44;Capital;2003;86;outlier_sup
+52;Baixada Fluminense;2003;74;outlier_sup
+59;Baixada Fluminense;2003;108;outlier_sup
+64;Baixada Fluminense;2003;74;outlier_sup
+21;Capital;2003;140;outlier_sup
+22;Capital;2003;110;outlier_sup
+23;Capital;2003;109;outlier_sup
+25;Capital;2003;70;outlier_sup
+27;Capital;2003;104;outlier_sup
+30;Capital;2003;73;outlier_sup
+34;Capital;2003;83;outlier_sup
+37;Capital;2003;97;outlier_sup
+38;Capital;2003;80;outlier_sup
+39;Capital;2003;91;outlier_sup
+44;Capital;2003;93;outlier_sup
+59;Baixada Fluminense;2003;107;outlier_sup
+21;Capital;2003;102;outlier_sup
+22;Capital;2003;125;outlier_sup
+23;Capital;2003;105;outlier_sup
+24;Capital;2003;83;outlier_sup
+27;Capital;2003;142;outlier_sup
+30;Capital;2003;74;outlier_sup
+34;Capital;2003;100;outlier_sup
+35;Capital;2003;66;outlier_sup
+37;Capital;2003;91;outlier_sup
+38;Capital;2003;93;outlier_sup
+39;Capital;2003;113;outlier_sup
+44;Capital;2003;79;outlier_sup
+59;Baixada Fluminense;2003;99;outlier_sup
+21;Capital;2003;116;outlier_sup
+22;Capital;2003;105;outlier_sup
+23;Capital;2003;125;outlier_sup
+24;Capital;2003;76;outlier_sup
+25;Capital;2003;70;outlier_sup
+27;Capital;2003;134;outlier_sup
+28;Capital;2003;67;outlier_sup
+29;Capital;2003;62;outlier_sup
+30;Capital;2003;73;outlier_sup
+34;Capital;2003;93;outlier_sup
+37;Capital;2003;109;outlier_sup
+38;Capital;2003;104;outlier_sup
+39;Capital;2003;105;outlier_sup
+40;Capital;2003;62;outlier_sup
+44;Capital;2003;95;outlier_sup
+52;Baixada Fluminense;2003;63;outlier_sup
+59;Baixada Fluminense;2003;133;outlier_sup
+64;Baixada Fluminense;2003;64;outlier_sup
+21;Capital;2003;114;outlier_sup
+22;Capital;2003;146;outlier_sup
+23;Capital;2003;128;outlier_sup
+25;Capital;2003;68;outlier_sup
+27;Capital;2003;115;outlier_sup
+30;Capital;2003;85;outlier_sup
+33;Capital;2003;67;outlier_sup
+34;Capital;2003;95;outlier_sup
+35;Capital;2003;66;outlier_sup
+37;Capital;2003;107;outlier_sup
+38;Capital;2003;132;outlier_sup
+39;Capital;2003;138;outlier_sup
+44;Capital;2003;87;outlier_sup
+59;Baixada Fluminense;2003;140;outlier_sup
+21;Capital;2003;83;outlier_sup
+22;Capital;2003;112;outlier_sup
+23;Capital;2003;120;outlier_sup
+24;Capital;2003;69;outlier_sup
+25;Capital;2003;65;outlier_sup
+27;Capital;2003;103;outlier_sup
+28;Capital;2003;65;outlier_sup
+30;Capital;2003;117;outlier_sup
+33;Capital;2003;64;outlier_sup
+34;Capital;2003;91;outlier_sup
+35;Capital;2003;66;outlier_sup
+37;Capital;2003;94;outlier_sup
+38;Capital;2003;67;outlier_sup
+39;Capital;2003;83;outlier_sup
+44;Capital;2003;61;outlier_sup
+59;Baixada Fluminense;2003;101;outlier_sup
+19;Capital;2003;65;outlier_sup
+21;Capital;2003;105;outlier_sup
+22;Capital;2003;125;outlier_sup
+23;Capital;2003;127;outlier_sup
+24;Capital;2003;90;outlier_sup
+25;Capital;2003;62;outlier_sup
+27;Capital;2003;111;outlier_sup
+28;Capital;2003;93;outlier_sup
+29;Capital;2003;66;outlier_sup
+30;Capital;2003;89;outlier_sup
+34;Capital;2003;88;outlier_sup
+35;Capital;2003;105;outlier_sup
+37;Capital;2003;68;outlier_sup
+38;Capital;2003;123;outlier_sup
+39;Capital;2003;112;outlier_sup
+40;Capital;2003;74;outlier_sup
+59;Baixada Fluminense;2003;151;outlier_sup
+21;Capital;2004;101;outlier_sup
+22;Capital;2004;140;outlier_sup
+23;Capital;2004;100;outlier_sup
+24;Capital;2004;61;outlier_sup
+27;Capital;2004;134;outlier_sup
+29;Capital;2004;62;outlier_sup
+30;Capital;2004;79;outlier_sup
+33;Capital;2004;74;outlier_sup
+34;Capital;2004;95;outlier_sup
+35;Capital;2004;62;outlier_sup
+37;Capital;2004;87;outlier_sup
+38;Capital;2004;140;outlier_sup
+39;Capital;2004;126;outlier_sup
+40;Capital;2004;82;outlier_sup
+59;Baixada Fluminense;2004;146;outlier_sup
+21;Capital;2004;122;outlier_sup
+22;Capital;2004;126;outlier_sup
+23;Capital;2004;80;outlier_sup
+24;Capital;2004;78;outlier_sup
+27;Capital;2004;93;outlier_sup
+37;Capital;2004;85;outlier_sup
+38;Capital;2004;98;outlier_sup
+39;Capital;2004;96;outlier_sup
+59;Baixada Fluminense;2004;133;outlier_sup
+21;Capital;2004;137;outlier_sup
+22;Capital;2004;127;outlier_sup
+23;Capital;2004;74;outlier_sup
+24;Capital;2004;86;outlier_sup
+27;Capital;2004;139;outlier_sup
+28;Capital;2004;80;outlier_sup
+29;Capital;2004;62;outlier_sup
+30;Capital;2004;87;outlier_sup
+33;Capital;2004;101;outlier_sup
+34;Capital;2004;70;outlier_sup
+35;Capital;2004;74;outlier_sup
+37;Capital;2004;113;outlier_sup
+38;Capital;2004;105;outlier_sup
+39;Capital;2004;96;outlier_sup
+41;Capital;2004;68;outlier_sup
+52;Baixada Fluminense;2004;66;outlier_sup
+59;Baixada Fluminense;2004;192;outlier_sup
+17;Capital;2004;78;outlier_sup
+21;Capital;2004;160;outlier_sup
+22;Capital;2004;143;outlier_sup
+23;Capital;2004;107;outlier_sup
+24;Capital;2004;96;outlier_sup
+25;Capital;2004;92;outlier_sup
+27;Capital;2004;123;outlier_sup
+28;Capital;2004;72;outlier_sup
+29;Capital;2004;80;outlier_sup
+30;Capital;2004;89;outlier_sup
+33;Capital;2004;87;outlier_sup
+34;Capital;2004;74;outlier_sup
+35;Capital;2004;63;outlier_sup
+37;Capital;2004;72;outlier_sup
+38;Capital;2004;106;outlier_sup
+39;Capital;2004;121;outlier_sup
+40;Capital;2004;72;outlier_sup
+41;Capital;2004;72;outlier_sup
+44;Capital;2004;72;outlier_sup
+52;Baixada Fluminense;2004;67;outlier_sup
+59;Baixada Fluminense;2004;200;outlier_sup
+60;Baixada Fluminense;2004;64;outlier_sup
+17;Capital;2004;81;outlier_sup
+20;Capital;2004;61;outlier_sup
+21;Capital;2004;175;outlier_sup
+22;Capital;2004;150;outlier_sup
+23;Capital;2004;96;outlier_sup
+24;Capital;2004;87;outlier_sup
+25;Capital;2004;95;outlier_sup
+27;Capital;2004;125;outlier_sup
+28;Capital;2004;71;outlier_sup
+29;Capital;2004;64;outlier_sup
+30;Capital;2004;90;outlier_sup
+33;Capital;2004;86;outlier_sup
+34;Capital;2004;70;outlier_sup
+35;Capital;2004;92;outlier_sup
+37;Capital;2004;98;outlier_sup
+38;Capital;2004;146;outlier_sup
+39;Capital;2004;125;outlier_sup
+40;Capital;2004;71;outlier_sup
+44;Capital;2004;94;outlier_sup
+59;Baixada Fluminense;2004;175;outlier_sup
+64;Baixada Fluminense;2004;61;outlier_sup
+17;Capital;2004;67;outlier_sup
+21;Capital;2004;107;outlier_sup
+22;Capital;2004;135;outlier_sup
+23;Capital;2004;64;outlier_sup
+24;Capital;2004;99;outlier_sup
+25;Capital;2004;61;outlier_sup
+27;Capital;2004;100;outlier_sup
+28;Capital;2004;65;outlier_sup
+29;Capital;2004;61;outlier_sup
+30;Capital;2004;99;outlier_sup
+34;Capital;2004;78;outlier_sup
+35;Capital;2004;78;outlier_sup
+37;Capital;2004;83;outlier_sup
+38;Capital;2004;111;outlier_sup
+39;Capital;2004;181;outlier_sup
+41;Capital;2004;65;outlier_sup
+44;Capital;2004;81;outlier_sup
+59;Baixada Fluminense;2004;113;outlier_sup
+64;Baixada Fluminense;2004;70;outlier_sup
+17;Capital;2004;85;outlier_sup
+20;Capital;2004;67;outlier_sup
+21;Capital;2004;107;outlier_sup
+22;Capital;2004;107;outlier_sup
+24;Capital;2004;64;outlier_sup
+27;Capital;2004;123;outlier_sup
+28;Capital;2004;69;outlier_sup
+29;Capital;2004;75;outlier_sup
+30;Capital;2004;80;outlier_sup
+34;Capital;2004;78;outlier_sup
+35;Capital;2004;89;outlier_sup
+37;Capital;2004;61;outlier_sup
+38;Capital;2004;120;outlier_sup
+39;Capital;2004;205;outlier_sup
+40;Capital;2004;72;outlier_sup
+44;Capital;2004;80;outlier_sup
+59;Baixada Fluminense;2004;128;outlier_sup
+21;Capital;2004;89;outlier_sup
+22;Capital;2004;102;outlier_sup
+27;Capital;2004;100;outlier_sup
+28;Capital;2004;64;outlier_sup
+30;Capital;2004;85;outlier_sup
+34;Capital;2004;67;outlier_sup
+37;Capital;2004;67;outlier_sup
+38;Capital;2004;108;outlier_sup
+39;Capital;2004;188;outlier_sup
+40;Capital;2004;72;outlier_sup
+44;Capital;2004;62;outlier_sup
+59;Baixada Fluminense;2004;156;outlier_sup
+21;Capital;2004;113;outlier_sup
+22;Capital;2004;126;outlier_sup
+23;Capital;2004;76;outlier_sup
+24;Capital;2004;65;outlier_sup
+25;Capital;2004;69;outlier_sup
+27;Capital;2004;119;outlier_sup
+30;Capital;2004;81;outlier_sup
+34;Capital;2004;76;outlier_sup
+38;Capital;2004;145;outlier_sup
+39;Capital;2004;183;outlier_sup
+40;Capital;2004;67;outlier_sup
+41;Capital;2004;61;outlier_sup
+44;Capital;2004;89;outlier_sup
+59;Baixada Fluminense;2004;122;outlier_sup
+18;Capital;2004;67;outlier_sup
+21;Capital;2004;138;outlier_sup
+22;Capital;2004;92;outlier_sup
+23;Capital;2004;66;outlier_sup
+24;Capital;2004;65;outlier_sup
+25;Capital;2004;70;outlier_sup
+27;Capital;2004;146;outlier_sup
+28;Capital;2004;74;outlier_sup
+29;Capital;2004;68;outlier_sup
+33;Capital;2004;67;outlier_sup
+34;Capital;2004;99;outlier_sup
+38;Capital;2004;113;outlier_sup
+39;Capital;2004;193;outlier_sup
+40;Capital;2004;68;outlier_sup
+41;Capital;2004;72;outlier_sup
+44;Capital;2004;108;outlier_sup
+59;Baixada Fluminense;2004;144;outlier_sup
+64;Baixada Fluminense;2004;78;outlier_sup
+21;Capital;2004;124;outlier_sup
+22;Capital;2004;82;outlier_sup
+24;Capital;2004;90;outlier_sup
+25;Capital;2004;65;outlier_sup
+27;Capital;2004;115;outlier_sup
+33;Capital;2004;82;outlier_sup
+34;Capital;2004;100;outlier_sup
+35;Capital;2004;76;outlier_sup
+38;Capital;2004;77;outlier_sup
+39;Capital;2004;216;outlier_sup
+40;Capital;2004;65;outlier_sup
+44;Capital;2004;108;outlier_sup
+59;Baixada Fluminense;2004;129;outlier_sup
+60;Baixada Fluminense;2004;61;outlier_sup
+19;Capital;2004;69;outlier_sup
+20;Capital;2004;66;outlier_sup
+21;Capital;2004;147;outlier_sup
+22;Capital;2004;94;outlier_sup
+24;Capital;2004;73;outlier_sup
+27;Capital;2004;117;outlier_sup
+30;Capital;2004;87;outlier_sup
+33;Capital;2004;78;outlier_sup
+34;Capital;2004;99;outlier_sup
+35;Capital;2004;89;outlier_sup
+38;Capital;2004;102;outlier_sup
+39;Capital;2004;190;outlier_sup
+40;Capital;2004;61;outlier_sup
+44;Capital;2004;119;outlier_sup
+59;Baixada Fluminense;2004;118;outlier_sup
+21;Capital;2005;144;outlier_sup
+22;Capital;2005;114;outlier_sup
+23;Capital;2005;109;outlier_sup
+24;Capital;2005;81;outlier_sup
+27;Capital;2005;146;outlier_sup
+28;Capital;2005;68;outlier_sup
+29;Capital;2005;66;outlier_sup
+30;Capital;2005;69;outlier_sup
+33;Capital;2005;81;outlier_sup
+34;Capital;2005;95;outlier_sup
+35;Capital;2005;96;outlier_sup
+38;Capital;2005;150;outlier_sup
+39;Capital;2005;153;outlier_sup
+40;Capital;2005;64;outlier_sup
+44;Capital;2005;104;outlier_sup
+59;Baixada Fluminense;2005;146;outlier_sup
+21;Capital;2005;156;outlier_sup
+22;Capital;2005;122;outlier_sup
+23;Capital;2005;117;outlier_sup
+24;Capital;2005;111;outlier_sup
+27;Capital;2005;108;outlier_sup
+33;Capital;2005;109;outlier_sup
+34;Capital;2005;101;outlier_sup
+35;Capital;2005;98;outlier_sup
+38;Capital;2005;140;outlier_sup
+39;Capital;2005;130;outlier_sup
+44;Capital;2005;115;outlier_sup
+59;Baixada Fluminense;2005;122;outlier_sup
+20;Capital;2005;62;outlier_sup
+21;Capital;2005;204;outlier_sup
+22;Capital;2005;113;outlier_sup
+23;Capital;2005;95;outlier_sup
+24;Capital;2005;111;outlier_sup
+27;Capital;2005;146;outlier_sup
+28;Capital;2005;86;outlier_sup
+29;Capital;2005;65;outlier_sup
+30;Capital;2005;89;outlier_sup
+33;Capital;2005;89;outlier_sup
+34;Capital;2005;119;outlier_sup
+35;Capital;2005;77;outlier_sup
+38;Capital;2005;149;outlier_sup
+39;Capital;2005;172;outlier_sup
+40;Capital;2005;84;outlier_sup
+44;Capital;2005;153;outlier_sup
+59;Baixada Fluminense;2005;138;outlier_sup
+20;Capital;2005;61;outlier_sup
+21;Capital;2005;160;outlier_sup
+22;Capital;2005;80;outlier_sup
+23;Capital;2005;118;outlier_sup
+24;Capital;2005;91;outlier_sup
+25;Capital;2005;80;outlier_sup
+27;Capital;2005;173;outlier_sup
+28;Capital;2005;83;outlier_sup
+29;Capital;2005;77;outlier_sup
+30;Capital;2005;79;outlier_sup
+33;Capital;2005;99;outlier_sup
+34;Capital;2005;105;outlier_sup
+35;Capital;2005;95;outlier_sup
+38;Capital;2005;166;outlier_sup
+39;Capital;2005;168;outlier_sup
+40;Capital;2005;69;outlier_sup
+44;Capital;2005;130;outlier_sup
+59;Baixada Fluminense;2005;122;outlier_sup
+19;Capital;2005;70;outlier_sup
+20;Capital;2005;72;outlier_sup
+21;Capital;2005;176;outlier_sup
+22;Capital;2005;78;outlier_sup
+23;Capital;2005;79;outlier_sup
+24;Capital;2005;85;outlier_sup
+25;Capital;2005;70;outlier_sup
+27;Capital;2005;183;outlier_sup
+28;Capital;2005;77;outlier_sup
+29;Capital;2005;61;outlier_sup
+30;Capital;2005;94;outlier_sup
+32;Capital;2005;63;outlier_sup
+33;Capital;2005;85;outlier_sup
+34;Capital;2005;109;outlier_sup
+35;Capital;2005;79;outlier_sup
+37;Capital;2005;66;outlier_sup
+38;Capital;2005;145;outlier_sup
+39;Capital;2005;139;outlier_sup
+40;Capital;2005;71;outlier_sup
+41;Capital;2005;62;outlier_sup
+44;Capital;2005;141;outlier_sup
+59;Baixada Fluminense;2005;109;outlier_sup
+21;Capital;2005;126;outlier_sup
+22;Capital;2005;110;outlier_sup
+24;Capital;2005;111;outlier_sup
+27;Capital;2005;138;outlier_sup
+28;Capital;2005;71;outlier_sup
+29;Capital;2005;65;outlier_sup
+33;Capital;2005;87;outlier_sup
+34;Capital;2005;106;outlier_sup
+35;Capital;2005;70;outlier_sup
+38;Capital;2005;113;outlier_sup
+39;Capital;2005;128;outlier_sup
+40;Capital;2005;67;outlier_sup
+44;Capital;2005;120;outlier_sup
+59;Baixada Fluminense;2005;89;outlier_sup
+21;Capital;2005;130;outlier_sup
+22;Capital;2005;102;outlier_sup
+23;Capital;2005;96;outlier_sup
+24;Capital;2005;94;outlier_sup
+27;Capital;2005;105;outlier_sup
+28;Capital;2005;64;outlier_sup
+34;Capital;2005;102;outlier_sup
+35;Capital;2005;70;outlier_sup
+38;Capital;2005;131;outlier_sup
+39;Capital;2005;98;outlier_sup
+40;Capital;2005;63;outlier_sup
+44;Capital;2005;71;outlier_sup
+59;Baixada Fluminense;2005;108;outlier_sup
+64;Baixada Fluminense;2005;73;outlier_sup
+21;Capital;2005;121;outlier_sup
+22;Capital;2005;98;outlier_sup
+23;Capital;2005;75;outlier_sup
+24;Capital;2005;100;outlier_sup
+27;Capital;2005;98;outlier_sup
+28;Capital;2005;74;outlier_sup
+33;Capital;2005;61;outlier_sup
+34;Capital;2005;124;outlier_sup
+35;Capital;2005;72;outlier_sup
+38;Capital;2005;92;outlier_sup
+39;Capital;2005;112;outlier_sup
+40;Capital;2005;65;outlier_sup
+44;Capital;2005;105;outlier_sup
+59;Baixada Fluminense;2005;121;outlier_sup
+64;Baixada Fluminense;2005;70;outlier_sup
+21;Capital;2005;155;outlier_sup
+22;Capital;2005;103;outlier_sup
+23;Capital;2005;92;outlier_sup
+24;Capital;2005;120;outlier_sup
+25;Capital;2005;75;outlier_sup
+27;Capital;2005;144;outlier_sup
+28;Capital;2005;77;outlier_sup
+33;Capital;2005;61;outlier_sup
+34;Capital;2005;121;outlier_sup
+35;Capital;2005;74;outlier_sup
+38;Capital;2005;104;outlier_sup
+39;Capital;2005;92;outlier_sup
+44;Capital;2005;109;outlier_sup
+59;Baixada Fluminense;2005;119;outlier_sup
+19;Capital;2005;79;outlier_sup
+21;Capital;2005;159;outlier_sup
+22;Capital;2005;105;outlier_sup
+23;Capital;2005;90;outlier_sup
+24;Capital;2005;108;outlier_sup
+27;Capital;2005;108;outlier_sup
+28;Capital;2005;78;outlier_sup
+30;Capital;2005;77;outlier_sup
+33;Capital;2005;73;outlier_sup
+34;Capital;2005;134;outlier_sup
+35;Capital;2005;76;outlier_sup
+37;Capital;2005;80;outlier_sup
+38;Capital;2005;113;outlier_sup
+39;Capital;2005;122;outlier_sup
+40;Capital;2005;66;outlier_sup
+44;Capital;2005;110;outlier_sup
+52;Baixada Fluminense;2005;62;outlier_sup
+59;Baixada Fluminense;2005;113;outlier_sup
+64;Baixada Fluminense;2005;64;outlier_sup
+19;Capital;2005;66;outlier_sup
+21;Capital;2005;121;outlier_sup
+22;Capital;2005;90;outlier_sup
+23;Capital;2005;68;outlier_sup
+24;Capital;2005;103;outlier_sup
+27;Capital;2005;165;outlier_sup
+28;Capital;2005;81;outlier_sup
+30;Capital;2005;84;outlier_sup
+33;Capital;2005;66;outlier_sup
+34;Capital;2005;137;outlier_sup
+35;Capital;2005;80;outlier_sup
+37;Capital;2005;63;outlier_sup
+38;Capital;2005;127;outlier_sup
+39;Capital;2005;140;outlier_sup
+40;Capital;2005;81;outlier_sup
+44;Capital;2005;62;outlier_sup
+52;Baixada Fluminense;2005;62;outlier_sup
+59;Baixada Fluminense;2005;133;outlier_sup
+60;Baixada Fluminense;2005;79;outlier_sup
+21;Capital;2005;144;outlier_sup
+22;Capital;2005;76;outlier_sup
+26;Capital;2005;61;outlier_sup
+27;Capital;2005;147;outlier_sup
+28;Capital;2005;91;outlier_sup
+34;Capital;2005;110;outlier_sup
+35;Capital;2005;85;outlier_sup
+37;Capital;2005;71;outlier_sup
+38;Capital;2005;124;outlier_sup
+39;Capital;2005;113;outlier_sup
+44;Capital;2005;76;outlier_sup
+59;Baixada Fluminense;2005;118;outlier_sup
+64;Baixada Fluminense;2005;87;outlier_sup
+21;Capital;2006;123;outlier_sup
+22;Capital;2006;111;outlier_sup
+26;Capital;2006;69;outlier_sup
+27;Capital;2006;107;outlier_sup
+28;Capital;2006;70;outlier_sup
+33;Capital;2006;67;outlier_sup
+34;Capital;2006;129;outlier_sup
+35;Capital;2006;81;outlier_sup
+38;Capital;2006;115;outlier_sup
+39;Capital;2006;142;outlier_sup
+44;Capital;2006;61;outlier_sup
+59;Baixada Fluminense;2006;144;outlier_sup
+60;Baixada Fluminense;2006;62;outlier_sup
+64;Baixada Fluminense;2006;91;outlier_sup
+21;Capital;2006;139;outlier_sup
+22;Capital;2006;95;outlier_sup
+24;Capital;2006;62;outlier_sup
+26;Capital;2006;89;outlier_sup
+27;Capital;2006;111;outlier_sup
+28;Capital;2006;108;outlier_sup
+33;Capital;2006;66;outlier_sup
+34;Capital;2006;168;outlier_sup
+35;Capital;2006;112;outlier_sup
+38;Capital;2006;102;outlier_sup
+39;Capital;2006;121;outlier_sup
+40;Capital;2006;61;outlier_sup
+44;Capital;2006;78;outlier_sup
+59;Baixada Fluminense;2006;123;outlier_sup
+64;Baixada Fluminense;2006;91;outlier_sup
+19;Capital;2006;64;outlier_sup
+20;Capital;2006;62;outlier_sup
+21;Capital;2006;146;outlier_sup
+22;Capital;2006;121;outlier_sup
+24;Capital;2006;64;outlier_sup
+26;Capital;2006;77;outlier_sup
+27;Capital;2006;167;outlier_sup
+28;Capital;2006;76;outlier_sup
+29;Capital;2006;61;outlier_sup
+33;Capital;2006;114;outlier_sup
+34;Capital;2006;171;outlier_sup
+35;Capital;2006;104;outlier_sup
+37;Capital;2006;63;outlier_sup
+38;Capital;2006;140;outlier_sup
+39;Capital;2006;80;outlier_sup
+41;Capital;2006;72;outlier_sup
+44;Capital;2006;61;outlier_sup
+59;Baixada Fluminense;2006;134;outlier_sup
+64;Baixada Fluminense;2006;101;outlier_sup
+74;Grande Niterói;2006;66;outlier_sup
+19;Capital;2006;69;outlier_sup
+20;Capital;2006;63;outlier_sup
+21;Capital;2006;136;outlier_sup
+22;Capital;2006;103;outlier_sup
+23;Capital;2006;66;outlier_sup
+24;Capital;2006;76;outlier_sup
+26;Capital;2006;68;outlier_sup
+27;Capital;2006;158;outlier_sup
+28;Capital;2006;101;outlier_sup
+29;Capital;2006;70;outlier_sup
+33;Capital;2006;80;outlier_sup
+34;Capital;2006;181;outlier_sup
+35;Capital;2006;104;outlier_sup
+38;Capital;2006;120;outlier_sup
+39;Capital;2006;102;outlier_sup
+40;Capital;2006;63;outlier_sup
+44;Capital;2006;102;outlier_sup
+59;Baixada Fluminense;2006;163;outlier_sup
+64;Baixada Fluminense;2006;98;outlier_sup
+18;Capital;2006;79;outlier_sup
+20;Capital;2006;76;outlier_sup
+21;Capital;2006;161;outlier_sup
+22;Capital;2006;94;outlier_sup
+23;Capital;2006;71;outlier_sup
+24;Capital;2006;65;outlier_sup
+25;Capital;2006;81;outlier_sup
+26;Capital;2006;76;outlier_sup
+27;Capital;2006;159;outlier_sup
+28;Capital;2006;75;outlier_sup
+29;Capital;2006;75;outlier_sup
+30;Capital;2006;68;outlier_sup
+33;Capital;2006;99;outlier_sup
+34;Capital;2006;157;outlier_sup
+35;Capital;2006;107;outlier_sup
+37;Capital;2006;65;outlier_sup
+38;Capital;2006;141;outlier_sup
+39;Capital;2006;136;outlier_sup
+40;Capital;2006;74;outlier_sup
+44;Capital;2006;109;outlier_sup
+59;Baixada Fluminense;2006;153;outlier_sup
+64;Baixada Fluminense;2006;93;outlier_sup
+19;Capital;2006;65;outlier_sup
+20;Capital;2006;86;outlier_sup
+21;Capital;2006;116;outlier_sup
+22;Capital;2006;91;outlier_sup
+26;Capital;2006;72;outlier_sup
+27;Capital;2006;139;outlier_sup
+28;Capital;2006;84;outlier_sup
+33;Capital;2006;72;outlier_sup
+34;Capital;2006;114;outlier_sup
+35;Capital;2006;78;outlier_sup
+37;Capital;2006;65;outlier_sup
+38;Capital;2006;92;outlier_sup
+39;Capital;2006;119;outlier_sup
+40;Capital;2006;62;outlier_sup
+44;Capital;2006;75;outlier_sup
+59;Baixada Fluminense;2006;129;outlier_sup
+64;Baixada Fluminense;2006;94;outlier_sup
+20;Capital;2006;65;outlier_sup
+21;Capital;2006;124;outlier_sup
+22;Capital;2006;95;outlier_sup
+26;Capital;2006;61;outlier_sup
+27;Capital;2006;120;outlier_sup
+28;Capital;2006;71;outlier_sup
+31;Capital;2006;61;outlier_sup
+34;Capital;2006;131;outlier_sup
+35;Capital;2006;63;outlier_sup
+37;Capital;2006;68;outlier_sup
+38;Capital;2006;130;outlier_sup
+39;Capital;2006;86;outlier_sup
+44;Capital;2006;61;outlier_sup
+52;Baixada Fluminense;2006;63;outlier_sup
+59;Baixada Fluminense;2006;128;outlier_sup
+64;Baixada Fluminense;2006;69;outlier_sup
+20;Capital;2006;68;outlier_sup
+21;Capital;2006;146;outlier_sup
+22;Capital;2006;106;outlier_sup
+27;Capital;2006;124;outlier_sup
+28;Capital;2006;73;outlier_sup
+33;Capital;2006;78;outlier_sup
+34;Capital;2006;132;outlier_sup
+35;Capital;2006;82;outlier_sup
+37;Capital;2006;87;outlier_sup
+38;Capital;2006;99;outlier_sup
+39;Capital;2006;80;outlier_sup
+44;Capital;2006;94;outlier_sup
+59;Baixada Fluminense;2006;124;outlier_sup
+64;Baixada Fluminense;2006;81;outlier_sup
+19;Capital;2006;69;outlier_sup
+20;Capital;2006;84;outlier_sup
+21;Capital;2006;160;outlier_sup
+22;Capital;2006;110;outlier_sup
+23;Capital;2006;64;outlier_sup
+24;Capital;2006;61;outlier_sup
+26;Capital;2006;76;outlier_sup
+27;Capital;2006;118;outlier_sup
+28;Capital;2006;84;outlier_sup
+30;Capital;2006;69;outlier_sup
+31;Capital;2006;61;outlier_sup
+33;Capital;2006;85;outlier_sup
+34;Capital;2006;146;outlier_sup
+35;Capital;2006;71;outlier_sup
+37;Capital;2006;78;outlier_sup
+38;Capital;2006;96;outlier_sup
+39;Capital;2006;81;outlier_sup
+40;Capital;2006;71;outlier_sup
+41;Capital;2006;61;outlier_sup
+44;Capital;2006;75;outlier_sup
+52;Baixada Fluminense;2006;62;outlier_sup
+59;Baixada Fluminense;2006;140;outlier_sup
+64;Baixada Fluminense;2006;65;outlier_sup
+19;Capital;2006;74;outlier_sup
+20;Capital;2006;74;outlier_sup
+21;Capital;2006;143;outlier_sup
+22;Capital;2006;119;outlier_sup
+24;Capital;2006;62;outlier_sup
+27;Capital;2006;120;outlier_sup
+28;Capital;2006;80;outlier_sup
+29;Capital;2006;66;outlier_sup
+33;Capital;2006;91;outlier_sup
+34;Capital;2006;163;outlier_sup
+35;Capital;2006;72;outlier_sup
+37;Capital;2006;83;outlier_sup
+38;Capital;2006;91;outlier_sup
+39;Capital;2006;116;outlier_sup
+40;Capital;2006;91;outlier_sup
+44;Capital;2006;72;outlier_sup
+59;Baixada Fluminense;2006;170;outlier_sup
+64;Baixada Fluminense;2006;82;outlier_sup
+16;Capital;2006;67;outlier_sup
+21;Capital;2006;144;outlier_sup
+22;Capital;2006;99;outlier_sup
+26;Capital;2006;73;outlier_sup
+27;Capital;2006;132;outlier_sup
+28;Capital;2006;70;outlier_sup
+29;Capital;2006;72;outlier_sup
+30;Capital;2006;63;outlier_sup
+33;Capital;2006;83;outlier_sup
+34;Capital;2006;157;outlier_sup
+35;Capital;2006;62;outlier_sup
+37;Capital;2006;83;outlier_sup
+38;Capital;2006;118;outlier_sup
+39;Capital;2006;86;outlier_sup
+40;Capital;2006;75;outlier_sup
+44;Capital;2006;92;outlier_sup
+59;Baixada Fluminense;2006;153;outlier_sup
+64;Baixada Fluminense;2006;97;outlier_sup
+19;Capital;2006;68;outlier_sup
+20;Capital;2006;72;outlier_sup
+21;Capital;2006;130;outlier_sup
+22;Capital;2006;76;outlier_sup
+27;Capital;2006;125;outlier_sup
+29;Capital;2006;67;outlier_sup
+33;Capital;2006;75;outlier_sup
+34;Capital;2006;136;outlier_sup
+35;Capital;2006;74;outlier_sup
+37;Capital;2006;64;outlier_sup
+38;Capital;2006;87;outlier_sup
+39;Capital;2006;108;outlier_sup
+40;Capital;2006;85;outlier_sup
+44;Capital;2006;89;outlier_sup
+59;Baixada Fluminense;2006;130;outlier_sup
+64;Baixada Fluminense;2006;85;outlier_sup
+20;Capital;2007;96;outlier_sup
+21;Capital;2007;95;outlier_sup
+22;Capital;2007;97;outlier_sup
+24;Capital;2007;65;outlier_sup
+27;Capital;2007;160;outlier_sup
+33;Capital;2007;92;outlier_sup
+34;Capital;2007;144;outlier_sup
+35;Capital;2007;65;outlier_sup
+38;Capital;2007;119;outlier_sup
+39;Capital;2007;103;outlier_sup
+40;Capital;2007;79;outlier_sup
+44;Capital;2007;111;outlier_sup
+59;Baixada Fluminense;2007;148;outlier_sup
+60;Baixada Fluminense;2007;61;outlier_sup
+64;Baixada Fluminense;2007;92;outlier_sup
+20;Capital;2007;71;outlier_sup
+21;Capital;2007;124;outlier_sup
+27;Capital;2007;96;outlier_sup
+29;Capital;2007;61;outlier_sup
+33;Capital;2007;83;outlier_sup
+34;Capital;2007;132;outlier_sup
+35;Capital;2007;79;outlier_sup
+38;Capital;2007;107;outlier_sup
+39;Capital;2007;108;outlier_sup
+40;Capital;2007;87;outlier_sup
+44;Capital;2007;72;outlier_sup
+59;Baixada Fluminense;2007;145;outlier_sup
+64;Baixada Fluminense;2007;103;outlier_sup
+16;Capital;2007;76;outlier_sup
+19;Capital;2007;65;outlier_sup
+20;Capital;2007;95;outlier_sup
+21;Capital;2007;170;outlier_sup
+22;Capital;2007;88;outlier_sup
+24;Capital;2007;66;outlier_sup
+26;Capital;2007;65;outlier_sup
+27;Capital;2007;150;outlier_sup
+28;Capital;2007;63;outlier_sup
+33;Capital;2007;129;outlier_sup
+34;Capital;2007;171;outlier_sup
+35;Capital;2007;71;outlier_sup
+38;Capital;2007;135;outlier_sup
+39;Capital;2007;150;outlier_sup
+40;Capital;2007;102;outlier_sup
+41;Capital;2007;67;outlier_sup
+44;Capital;2007;113;outlier_sup
+52;Baixada Fluminense;2007;63;outlier_sup
+59;Baixada Fluminense;2007;150;outlier_sup
+64;Baixada Fluminense;2007;119;outlier_sup
+21;Capital;2007;155;outlier_sup
+22;Capital;2007;80;outlier_sup
+27;Capital;2007;125;outlier_sup
+33;Capital;2007;91;outlier_sup
+34;Capital;2007;138;outlier_sup
+35;Capital;2007;78;outlier_sup
+38;Capital;2007;132;outlier_sup
+39;Capital;2007;123;outlier_sup
+44;Capital;2007;118;outlier_sup
+59;Baixada Fluminense;2007;121;outlier_sup
+64;Baixada Fluminense;2007;102;outlier_sup
+20;Capital;2007;84;outlier_sup
+21;Capital;2007;134;outlier_sup
+22;Capital;2007;66;outlier_sup
+24;Capital;2007;68;outlier_sup
+26;Capital;2007;79;outlier_sup
+27;Capital;2007;120;outlier_sup
+29;Capital;2007;61;outlier_sup
+33;Capital;2007;96;outlier_sup
+34;Capital;2007;140;outlier_sup
+35;Capital;2007;63;outlier_sup
+38;Capital;2007;115;outlier_sup
+39;Capital;2007;95;outlier_sup
+44;Capital;2007;115;outlier_sup
+52;Baixada Fluminense;2007;73;outlier_sup
+59;Baixada Fluminense;2007;112;outlier_sup
+64;Baixada Fluminense;2007;90;outlier_sup
+16;Capital;2007;72;outlier_sup
+20;Capital;2007;89;outlier_sup
+21;Capital;2007;93;outlier_sup
+23;Capital;2007;61;outlier_sup
+27;Capital;2007;112;outlier_sup
+33;Capital;2007;78;outlier_sup
+34;Capital;2007;143;outlier_sup
+35;Capital;2007;100;outlier_sup
+38;Capital;2007;105;outlier_sup
+39;Capital;2007;91;outlier_sup
+44;Capital;2007;105;outlier_sup
+52;Baixada Fluminense;2007;61;outlier_sup
+59;Baixada Fluminense;2007;88;outlier_sup
+64;Baixada Fluminense;2007;84;outlier_sup
+20;Capital;2007;71;outlier_sup
+21;Capital;2007;61;outlier_sup
+27;Capital;2007;146;outlier_sup
+29;Capital;2007;63;outlier_sup
+33;Capital;2007;87;outlier_sup
+34;Capital;2007;139;outlier_sup
+38;Capital;2007;108;outlier_sup
+39;Capital;2007;98;outlier_sup
+41;Capital;2007;64;outlier_sup
+44;Capital;2007;96;outlier_sup
+59;Baixada Fluminense;2007;96;outlier_sup
+64;Baixada Fluminense;2007;74;outlier_sup
+16;Capital;2007;79;outlier_sup
+20;Capital;2007;109;outlier_sup
+21;Capital;2007;78;outlier_sup
+22;Capital;2007;63;outlier_sup
+25;Capital;2007;79;outlier_sup
+27;Capital;2007;134;outlier_sup
+33;Capital;2007;72;outlier_sup
+34;Capital;2007;153;outlier_sup
+35;Capital;2007;68;outlier_sup
+38;Capital;2007;89;outlier_sup
+39;Capital;2007;72;outlier_sup
+44;Capital;2007;72;outlier_sup
+59;Baixada Fluminense;2007;110;outlier_sup
+64;Baixada Fluminense;2007;81;outlier_sup
+20;Capital;2007;88;outlier_sup
+21;Capital;2007;96;outlier_sup
+25;Capital;2007;61;outlier_sup
+27;Capital;2007;142;outlier_sup
+34;Capital;2007;103;outlier_sup
+38;Capital;2007;87;outlier_sup
+39;Capital;2007;66;outlier_sup
+40;Capital;2007;64;outlier_sup
+41;Capital;2007;70;outlier_sup
+44;Capital;2007;77;outlier_sup
+59;Baixada Fluminense;2007;89;outlier_sup
+64;Baixada Fluminense;2007;69;outlier_sup
+74;Grande Niterói;2007;62;outlier_sup
+20;Capital;2007;81;outlier_sup
+21;Capital;2007;72;outlier_sup
+27;Capital;2007;173;outlier_sup
+33;Capital;2007;74;outlier_sup
+34;Capital;2007;101;outlier_sup
+35;Capital;2007;64;outlier_sup
+38;Capital;2007;94;outlier_sup
+39;Capital;2007;100;outlier_sup
+40;Capital;2007;64;outlier_sup
+41;Capital;2007;63;outlier_sup
+44;Capital;2007;75;outlier_sup
+59;Baixada Fluminense;2007;107;outlier_sup
+64;Baixada Fluminense;2007;89;outlier_sup
+20;Capital;2007;69;outlier_sup
+21;Capital;2007;83;outlier_sup
+22;Capital;2007;84;outlier_sup
+23;Capital;2007;69;outlier_sup
+27;Capital;2007;125;outlier_sup
+33;Capital;2007;89;outlier_sup
+34;Capital;2007;100;outlier_sup
+38;Capital;2007;84;outlier_sup
+39;Capital;2007;84;outlier_sup
+40;Capital;2007;76;outlier_sup
+44;Capital;2007;69;outlier_sup
+59;Baixada Fluminense;2007;114;outlier_sup
+64;Baixada Fluminense;2007;72;outlier_sup
+19;Capital;2007;69;outlier_sup
+20;Capital;2007;85;outlier_sup
+21;Capital;2007;150;outlier_sup
+22;Capital;2007;72;outlier_sup
+25;Capital;2007;66;outlier_sup
+27;Capital;2007;120;outlier_sup
+34;Capital;2007;104;outlier_sup
+38;Capital;2007;93;outlier_sup
+39;Capital;2007;81;outlier_sup
+40;Capital;2007;79;outlier_sup
+44;Capital;2007;102;outlier_sup
+59;Baixada Fluminense;2007;113;outlier_sup
+64;Baixada Fluminense;2007;71;outlier_sup
+19;Capital;2008;61;outlier_sup
+20;Capital;2008;83;outlier_sup
+21;Capital;2008;117;outlier_sup
+22;Capital;2008;77;outlier_sup
+23;Capital;2008;66;outlier_sup
+27;Capital;2008;109;outlier_sup
+33;Capital;2008;71;outlier_sup
+34;Capital;2008;80;outlier_sup
+38;Capital;2008;111;outlier_sup
+39;Capital;2008;83;outlier_sup
+40;Capital;2008;61;outlier_sup
+44;Capital;2008;99;outlier_sup
+59;Baixada Fluminense;2008;125;outlier_sup
+64;Baixada Fluminense;2008;62;outlier_sup
+20;Capital;2008;63;outlier_sup
+21;Capital;2008;98;outlier_sup
+22;Capital;2008;75;outlier_sup
+27;Capital;2008;117;outlier_sup
+33;Capital;2008;61;outlier_sup
+34;Capital;2008;84;outlier_sup
+35;Capital;2008;64;outlier_sup
+38;Capital;2008;68;outlier_sup
+39;Capital;2008;80;outlier_sup
+44;Capital;2008;84;outlier_sup
+52;Baixada Fluminense;2008;64;outlier_sup
+59;Baixada Fluminense;2008;152;outlier_sup
+20;Capital;2008;67;outlier_sup
+21;Capital;2008;124;outlier_sup
+22;Capital;2008;68;outlier_sup
+27;Capital;2008;90;outlier_sup
+34;Capital;2008;69;outlier_sup
+35;Capital;2008;63;outlier_sup
+38;Capital;2008;75;outlier_sup
+39;Capital;2008;71;outlier_sup
+44;Capital;2008;91;outlier_sup
+59;Baixada Fluminense;2008;150;outlier_sup
+64;Baixada Fluminense;2008;79;outlier_sup
+20;Capital;2008;64;outlier_sup
+21;Capital;2008;118;outlier_sup
+27;Capital;2008;73;outlier_sup
+34;Capital;2008;89;outlier_sup
+38;Capital;2008;66;outlier_sup
+44;Capital;2008;95;outlier_sup
+59;Baixada Fluminense;2008;119;outlier_sup
+21;Capital;2008;116;outlier_sup
+22;Capital;2008;66;outlier_sup
+27;Capital;2008;74;outlier_sup
+33;Capital;2008;66;outlier_sup
+34;Capital;2008;81;outlier_sup
+38;Capital;2008;66;outlier_sup
+39;Capital;2008;72;outlier_sup
+44;Capital;2008;87;outlier_sup
+59;Baixada Fluminense;2008;102;outlier_sup
+20;Capital;2008;76;outlier_sup
+21;Capital;2008;83;outlier_sup
+25;Capital;2008;71;outlier_sup
+27;Capital;2008;93;outlier_sup
+33;Capital;2008;69;outlier_sup
+34;Capital;2008;81;outlier_sup
+38;Capital;2008;61;outlier_sup
+44;Capital;2008;71;outlier_sup
+52;Baixada Fluminense;2008;61;outlier_sup
+59;Baixada Fluminense;2008;104;outlier_sup
+21;Capital;2008;100;outlier_sup
+27;Capital;2008;72;outlier_sup
+33;Capital;2008;70;outlier_sup
+34;Capital;2008;99;outlier_sup
+39;Capital;2008;71;outlier_sup
+41;Capital;2008;66;outlier_sup
+44;Capital;2008;82;outlier_sup
+59;Baixada Fluminense;2008;109;outlier_sup
+21;Capital;2008;103;outlier_sup
+22;Capital;2008;65;outlier_sup
+27;Capital;2008;100;outlier_sup
+33;Capital;2008;67;outlier_sup
+34;Capital;2008;101;outlier_sup
+38;Capital;2008;66;outlier_sup
+39;Capital;2008;72;outlier_sup
+44;Capital;2008;67;outlier_sup
+59;Baixada Fluminense;2008;112;outlier_sup
+21;Capital;2008;99;outlier_sup
+22;Capital;2008;70;outlier_sup
+25;Capital;2008;65;outlier_sup
+27;Capital;2008;108;outlier_sup
+34;Capital;2008;87;outlier_sup
+38;Capital;2008;61;outlier_sup
+39;Capital;2008;78;outlier_sup
+40;Capital;2008;66;outlier_sup
+44;Capital;2008;65;outlier_sup
+59;Baixada Fluminense;2008;135;outlier_sup
+64;Baixada Fluminense;2008;72;outlier_sup
+21;Capital;2008;73;outlier_sup
+22;Capital;2008;62;outlier_sup
+23;Capital;2008;63;outlier_sup
+27;Capital;2008;120;outlier_sup
+29;Capital;2008;77;outlier_sup
+34;Capital;2008;94;outlier_sup
+35;Capital;2008;61;outlier_sup
+38;Capital;2008;70;outlier_sup
+39;Capital;2008;91;outlier_sup
+40;Capital;2008;80;outlier_sup
+44;Capital;2008;85;outlier_sup
+52;Baixada Fluminense;2008;63;outlier_sup
+59;Baixada Fluminense;2008;106;outlier_sup
+60;Baixada Fluminense;2008;62;outlier_sup
+64;Baixada Fluminense;2008;103;outlier_sup
+74;Grande Niterói;2008;61;outlier_sup
+21;Capital;2008;66;outlier_sup
+27;Capital;2008;95;outlier_sup
+34;Capital;2008;88;outlier_sup
+38;Capital;2008;80;outlier_sup
+39;Capital;2008;106;outlier_sup
+40;Capital;2008;72;outlier_sup
+59;Baixada Fluminense;2008;108;outlier_sup
+64;Baixada Fluminense;2008;103;outlier_sup
+21;Capital;2008;125;outlier_sup
+27;Capital;2008;96;outlier_sup
+34;Capital;2008;81;outlier_sup
+35;Capital;2008;69;outlier_sup
+38;Capital;2008;74;outlier_sup
+39;Capital;2008;106;outlier_sup
+59;Baixada Fluminense;2008;160;outlier_sup
+60;Baixada Fluminense;2008;61;outlier_sup
+64;Baixada Fluminense;2008;84;outlier_sup
+16;Capital;2009;83;outlier_sup
+21;Capital;2009;121;outlier_sup
+22;Capital;2009;63;outlier_sup
+27;Capital;2009;110;outlier_sup
+34;Capital;2009;89;outlier_sup
+38;Capital;2009;76;outlier_sup
+39;Capital;2009;107;outlier_sup
+58;Baixada Fluminense;2009;61;outlier_sup
+59;Baixada Fluminense;2009;133;outlier_sup
+64;Baixada Fluminense;2009;92;outlier_sup
+21;Capital;2009;125;outlier_sup
+22;Capital;2009;63;outlier_sup
+27;Capital;2009;87;outlier_sup
+34;Capital;2009;100;outlier_sup
+38;Capital;2009;79;outlier_sup
+39;Capital;2009;92;outlier_sup
+44;Capital;2009;61;outlier_sup
+59;Baixada Fluminense;2009;115;outlier_sup
+60;Baixada Fluminense;2009;62;outlier_sup
+64;Baixada Fluminense;2009;74;outlier_sup
+74;Grande Niterói;2009;75;outlier_sup
+16;Capital;2009;70;outlier_sup
+20;Capital;2009;66;outlier_sup
+21;Capital;2009;82;outlier_sup
+27;Capital;2009;103;outlier_sup
+34;Capital;2009;114;outlier_sup
+38;Capital;2009;67;outlier_sup
+39;Capital;2009;64;outlier_sup
+59;Baixada Fluminense;2009;127;outlier_sup
+64;Baixada Fluminense;2009;105;outlier_sup
+74;Grande Niterói;2009;74;outlier_sup
+21;Capital;2009;103;outlier_sup
+27;Capital;2009;96;outlier_sup
+34;Capital;2009;76;outlier_sup
+38;Capital;2009;83;outlier_sup
+39;Capital;2009;94;outlier_sup
+44;Capital;2009;67;outlier_sup
+59;Baixada Fluminense;2009;139;outlier_sup
+64;Baixada Fluminense;2009;102;outlier_sup
+21;Capital;2009;80;outlier_sup
+27;Capital;2009;120;outlier_sup
+34;Capital;2009;78;outlier_sup
+35;Capital;2009;63;outlier_sup
+38;Capital;2009;63;outlier_sup
+39;Capital;2009;105;outlier_sup
+44;Capital;2009;64;outlier_sup
+59;Baixada Fluminense;2009;139;outlier_sup
+64;Baixada Fluminense;2009;102;outlier_sup
+20;Capital;2009;62;outlier_sup
+27;Capital;2009;93;outlier_sup
+59;Baixada Fluminense;2009;134;outlier_sup
+64;Baixada Fluminense;2009;91;outlier_sup
+27;Capital;2009;86;outlier_sup
+39;Capital;2009;95;outlier_sup
+59;Baixada Fluminense;2009;113;outlier_sup
+64;Baixada Fluminense;2009;91;outlier_sup
+21;Capital;2009;67;outlier_sup
+27;Capital;2009;84;outlier_sup
+34;Capital;2009;73;outlier_sup
+38;Capital;2009;70;outlier_sup
+39;Capital;2009;91;outlier_sup
+59;Baixada Fluminense;2009;103;outlier_sup
+64;Baixada Fluminense;2009;80;outlier_sup
+35;Capital;2009;72;outlier_sup
+39;Capital;2009;96;outlier_sup
+59;Baixada Fluminense;2009;98;outlier_sup
+27;Capital;2009;73;outlier_sup
+34;Capital;2009;76;outlier_sup
+39;Capital;2009;91;outlier_sup
+59;Baixada Fluminense;2009;118;outlier_sup
+64;Baixada Fluminense;2009;76;outlier_sup
+27;Capital;2009;83;outlier_sup
+39;Capital;2009;61;outlier_sup
+59;Baixada Fluminense;2009;87;outlier_sup
+27;Capital;2009;86;outlier_sup
+39;Capital;2009;90;outlier_sup
+59;Baixada Fluminense;2009;111;outlier_sup
+64;Baixada Fluminense;2009;71;outlier_sup
+21;Capital;2010;101;outlier_sup
+22;Capital;2010;66;outlier_sup
+27;Capital;2010;77;outlier_sup
+34;Capital;2010;77;outlier_sup
+35;Capital;2010;70;outlier_sup
+39;Capital;2010;93;outlier_sup
+59;Baixada Fluminense;2010;108;outlier_sup
+64;Baixada Fluminense;2010;61;outlier_sup
+21;Capital;2010;63;outlier_sup
+27;Capital;2010;73;outlier_sup
+34;Capital;2010;69;outlier_sup
+35;Capital;2010;65;outlier_sup
+39;Capital;2010;89;outlier_sup
+59;Baixada Fluminense;2010;124;outlier_sup
+64;Baixada Fluminense;2010;69;outlier_sup
+21;Capital;2010;65;outlier_sup
+27;Capital;2010;91;outlier_sup
+33;Capital;2010;67;outlier_sup
+34;Capital;2010;111;outlier_sup
+35;Capital;2010;63;outlier_sup
+39;Capital;2010;104;outlier_sup
+59;Baixada Fluminense;2010;95;outlier_sup
+64;Baixada Fluminense;2010;64;outlier_sup
+21;Capital;2010;67;outlier_sup
+27;Capital;2010;84;outlier_sup
+34;Capital;2010;87;outlier_sup
+39;Capital;2010;91;outlier_sup
+59;Baixada Fluminense;2010;105;outlier_sup
+27;Capital;2010;68;outlier_sup
+34;Capital;2010;76;outlier_sup
+39;Capital;2010;73;outlier_sup
+59;Baixada Fluminense;2010;86;outlier_sup
+21;Capital;2010;71;outlier_sup
+22;Capital;2010;64;outlier_sup
+27;Capital;2010;68;outlier_sup
+34;Capital;2010;86;outlier_sup
+39;Capital;2010;88;outlier_sup
+59;Baixada Fluminense;2010;115;outlier_sup
+64;Baixada Fluminense;2010;62;outlier_sup
+21;Capital;2010;63;outlier_sup
+22;Capital;2010;63;outlier_sup
+27;Capital;2010;69;outlier_sup
+34;Capital;2010;83;outlier_sup
+39;Capital;2010;96;outlier_sup
+59;Baixada Fluminense;2010;83;outlier_sup
+64;Baixada Fluminense;2010;70;outlier_sup
+21;Capital;2010;61;outlier_sup
+27;Capital;2010;83;outlier_sup
+35;Capital;2010;62;outlier_sup
+39;Capital;2010;68;outlier_sup
+59;Baixada Fluminense;2010;102;outlier_sup
+27;Capital;2010;72;outlier_sup
+39;Capital;2010;70;outlier_sup
+59;Baixada Fluminense;2010;114;outlier_sup
+27;Capital;2010;67;outlier_sup
+39;Capital;2010;72;outlier_sup
+59;Baixada Fluminense;2010;132;outlier_sup
+64;Baixada Fluminense;2010;77;outlier_sup
+27;Capital;2010;77;outlier_sup
+39;Capital;2010;76;outlier_sup
+59;Baixada Fluminense;2010;117;outlier_sup
+39;Capital;2010;82;outlier_sup
+59;Baixada Fluminense;2010;154;outlier_sup
+27;Capital;2011;63;outlier_sup
+34;Capital;2011;70;outlier_sup
+39;Capital;2011;65;outlier_sup
+59;Baixada Fluminense;2011;127;outlier_sup
+59;Baixada Fluminense;2011;138;outlier_sup
+64;Baixada Fluminense;2011;65;outlier_sup
+59;Baixada Fluminense;2011;170;outlier_sup
+64;Baixada Fluminense;2011;67;outlier_sup
+59;Baixada Fluminense;2011;146;outlier_sup
+59;Baixada Fluminense;2011;126;outlier_sup
+27;Capital;2011;62;outlier_sup
+39;Capital;2011;64;outlier_sup
+59;Baixada Fluminense;2011;130;outlier_sup
+27;Capital;2011;76;outlier_sup
+39;Capital;2011;64;outlier_sup
+59;Baixada Fluminense;2011;102;outlier_sup
+64;Baixada Fluminense;2011;82;outlier_sup
+27;Capital;2011;80;outlier_sup
+34;Capital;2011;73;outlier_sup
+59;Baixada Fluminense;2011;120;outlier_sup
+64;Baixada Fluminense;2011;74;outlier_sup
+27;Capital;2011;71;outlier_sup
+59;Baixada Fluminense;2011;89;outlier_sup
+64;Baixada Fluminense;2011;63;outlier_sup
+27;Capital;2011;79;outlier_sup
+34;Capital;2011;84;outlier_sup
+59;Baixada Fluminense;2011;100;outlier_sup
+34;Capital;2011;68;outlier_sup
+39;Capital;2011;67;outlier_sup
+59;Baixada Fluminense;2011;113;outlier_sup
+64;Baixada Fluminense;2011;68;outlier_sup
+27;Capital;2011;70;outlier_sup
+34;Capital;2011;80;outlier_sup
+59;Baixada Fluminense;2011;96;outlier_sup
+27;Capital;2012;82;outlier_sup
+34;Capital;2012;67;outlier_sup
+59;Baixada Fluminense;2012;114;outlier_sup
+60;Baixada Fluminense;2012;67;outlier_sup
+27;Capital;2012;82;outlier_sup
+34;Capital;2012;72;outlier_sup
+39;Capital;2012;81;outlier_sup
+40;Capital;2012;61;outlier_sup
+59;Baixada Fluminense;2012;129;outlier_sup
+60;Baixada Fluminense;2012;68;outlier_sup
+64;Baixada Fluminense;2012;75;outlier_sup
+74;Grande Niterói;2012;93;outlier_sup
+27;Capital;2012;93;outlier_sup
+34;Capital;2012;94;outlier_sup
+39;Capital;2012;85;outlier_sup
+40;Capital;2012;62;outlier_sup
+59;Baixada Fluminense;2012;167;outlier_sup
+60;Baixada Fluminense;2012;66;outlier_sup
+64;Baixada Fluminense;2012;74;outlier_sup
+27;Capital;2012;103;outlier_sup
+31;Capital;2012;70;outlier_sup
+34;Capital;2012;90;outlier_sup
+52;Baixada Fluminense;2012;66;outlier_sup
+59;Baixada Fluminense;2012;137;outlier_sup
+60;Baixada Fluminense;2012;62;outlier_sup
+64;Baixada Fluminense;2012;93;outlier_sup
+74;Grande Niterói;2012;61;outlier_sup
+27;Capital;2012;91;outlier_sup
+34;Capital;2012;71;outlier_sup
+35;Capital;2012;63;outlier_sup
+40;Capital;2012;72;outlier_sup
+59;Baixada Fluminense;2012;167;outlier_sup
+60;Baixada Fluminense;2012;73;outlier_sup
+64;Baixada Fluminense;2012;90;outlier_sup
+27;Capital;2012;78;outlier_sup
+34;Capital;2012;82;outlier_sup
+35;Capital;2012;66;outlier_sup
+59;Baixada Fluminense;2012;145;outlier_sup
+64;Baixada Fluminense;2012;65;outlier_sup
+27;Capital;2012;71;outlier_sup
+35;Capital;2012;67;outlier_sup
+38;Capital;2012;63;outlier_sup
+59;Baixada Fluminense;2012;123;outlier_sup
+64;Baixada Fluminense;2012;76;outlier_sup
+27;Capital;2012;86;outlier_sup
+38;Capital;2012;72;outlier_sup
+39;Capital;2012;64;outlier_sup
+59;Baixada Fluminense;2012;130;outlier_sup
+64;Baixada Fluminense;2012;68;outlier_sup
+74;Grande Niterói;2012;65;outlier_sup
+27;Capital;2012;86;outlier_sup
+38;Capital;2012;65;outlier_sup
+59;Baixada Fluminense;2012;123;outlier_sup
+64;Baixada Fluminense;2012;95;outlier_sup
+27;Capital;2012;100;outlier_sup
+34;Capital;2012;80;outlier_sup
+39;Capital;2012;67;outlier_sup
+59;Baixada Fluminense;2012;126;outlier_sup
+27;Capital;2012;73;outlier_sup
+34;Capital;2012;77;outlier_sup
+39;Capital;2012;61;outlier_sup
+59;Baixada Fluminense;2012;130;outlier_sup
+60;Baixada Fluminense;2012;64;outlier_sup
+64;Baixada Fluminense;2012;72;outlier_sup
+27;Capital;2012;69;outlier_sup
+34;Capital;2012;89;outlier_sup
+35;Capital;2012;69;outlier_sup
+38;Capital;2012;61;outlier_sup
+39;Capital;2012;83;outlier_sup
+59;Baixada Fluminense;2012;153;outlier_sup
+60;Baixada Fluminense;2012;76;outlier_sup
+64;Baixada Fluminense;2012;89;outlier_sup
+74;Grande Niterói;2012;76;outlier_sup
+27;Capital;2013;87;outlier_sup
+31;Capital;2013;65;outlier_sup
+34;Capital;2013;80;outlier_sup
+59;Baixada Fluminense;2013;121;outlier_sup
+60;Baixada Fluminense;2013;81;outlier_sup
+64;Baixada Fluminense;2013;87;outlier_sup
+27;Capital;2013;70;outlier_sup
+39;Capital;2013;61;outlier_sup
+54;Baixada Fluminense;2013;62;outlier_sup
+59;Baixada Fluminense;2013;159;outlier_sup
+60;Baixada Fluminense;2013;87;outlier_sup
+64;Baixada Fluminense;2013;99;outlier_sup
+27;Capital;2013;63;outlier_sup
+34;Capital;2013;78;outlier_sup
+39;Capital;2013;95;outlier_sup
+54;Baixada Fluminense;2013;75;outlier_sup
+58;Baixada Fluminense;2013;66;outlier_sup
+59;Baixada Fluminense;2013;163;outlier_sup
+60;Baixada Fluminense;2013;78;outlier_sup
+64;Baixada Fluminense;2013;130;outlier_sup
+74;Grande Niterói;2013;75;outlier_sup
+27;Capital;2013;66;outlier_sup
+39;Capital;2013;81;outlier_sup
+52;Baixada Fluminense;2013;63;outlier_sup
+54;Baixada Fluminense;2013;61;outlier_sup
+58;Baixada Fluminense;2013;66;outlier_sup
+59;Baixada Fluminense;2013;145;outlier_sup
+60;Baixada Fluminense;2013;77;outlier_sup
+64;Baixada Fluminense;2013;132;outlier_sup
+73;Grande Niterói;2013;63;outlier_sup
+74;Grande Niterói;2013;99;outlier_sup
+27;Capital;2013;65;outlier_sup
+31;Capital;2013;66;outlier_sup
+34;Capital;2013;66;outlier_sup
+40;Capital;2013;63;outlier_sup
+54;Baixada Fluminense;2013;73;outlier_sup
+59;Baixada Fluminense;2013;155;outlier_sup
+60;Baixada Fluminense;2013;66;outlier_sup
+64;Baixada Fluminense;2013;123;outlier_sup
+73;Grande Niterói;2013;69;outlier_sup
+74;Grande Niterói;2013;95;outlier_sup
+31;Capital;2013;62;outlier_sup
+34;Capital;2013;88;outlier_sup
+39;Capital;2013;67;outlier_sup
+52;Baixada Fluminense;2013;66;outlier_sup
+54;Baixada Fluminense;2013;81;outlier_sup
+59;Baixada Fluminense;2013;176;outlier_sup
+60;Baixada Fluminense;2013;68;outlier_sup
+64;Baixada Fluminense;2013;158;outlier_sup
+73;Grande Niterói;2013;68;outlier_sup
+74;Grande Niterói;2013;80;outlier_sup
+27;Capital;2013;84;outlier_sup
+34;Capital;2013;71;outlier_sup
+39;Capital;2013;63;outlier_sup
+40;Capital;2013;69;outlier_sup
+52;Baixada Fluminense;2013;63;outlier_sup
+54;Baixada Fluminense;2013;81;outlier_sup
+57;Baixada Fluminense;2013;64;outlier_sup
+58;Baixada Fluminense;2013;61;outlier_sup
+59;Baixada Fluminense;2013;147;outlier_sup
+60;Baixada Fluminense;2013;73;outlier_sup
+64;Baixada Fluminense;2013;147;outlier_sup
+74;Grande Niterói;2013;66;outlier_sup
+27;Capital;2013;79;outlier_sup
+31;Capital;2013;70;outlier_sup
+39;Capital;2013;71;outlier_sup
+52;Baixada Fluminense;2013;73;outlier_sup
+54;Baixada Fluminense;2013;72;outlier_sup
+56;Baixada Fluminense;2013;66;outlier_sup
+58;Baixada Fluminense;2013;82;outlier_sup
+59;Baixada Fluminense;2013;127;outlier_sup
+60;Baixada Fluminense;2013;98;outlier_sup
+64;Baixada Fluminense;2013;165;outlier_sup
+74;Grande Niterói;2013;82;outlier_sup
+78;Grande Niterói;2013;61;outlier_sup
+27;Capital;2013;84;outlier_sup
+33;Capital;2013;77;outlier_sup
+34;Capital;2013;87;outlier_sup
+39;Capital;2013;87;outlier_sup
+40;Capital;2013;78;outlier_sup
+52;Baixada Fluminense;2013;75;outlier_sup
+58;Baixada Fluminense;2013;68;outlier_sup
+59;Baixada Fluminense;2013;119;outlier_sup
+60;Baixada Fluminense;2013;91;outlier_sup
+64;Baixada Fluminense;2013;130;outlier_sup
+74;Grande Niterói;2013;80;outlier_sup
+27;Capital;2013;92;outlier_sup
+28;Capital;2013;66;outlier_sup
+33;Capital;2013;70;outlier_sup
+34;Capital;2013;105;outlier_sup
+38;Capital;2013;66;outlier_sup
+39;Capital;2013;102;outlier_sup
+40;Capital;2013;81;outlier_sup
+52;Baixada Fluminense;2013;71;outlier_sup
+54;Baixada Fluminense;2013;88;outlier_sup
+58;Baixada Fluminense;2013;68;outlier_sup
+59;Baixada Fluminense;2013;152;outlier_sup
+60;Baixada Fluminense;2013;97;outlier_sup
+64;Baixada Fluminense;2013;153;outlier_sup
+73;Grande Niterói;2013;73;outlier_sup
+27;Capital;2013;72;outlier_sup
+31;Capital;2013;70;outlier_sup
+33;Capital;2013;85;outlier_sup
+34;Capital;2013;118;outlier_sup
+38;Capital;2013;74;outlier_sup
+39;Capital;2013;81;outlier_sup
+52;Baixada Fluminense;2013;68;outlier_sup
+54;Baixada Fluminense;2013;74;outlier_sup
+58;Baixada Fluminense;2013;70;outlier_sup
+59;Baixada Fluminense;2013;110;outlier_sup
+60;Baixada Fluminense;2013;121;outlier_sup
+64;Baixada Fluminense;2013;143;outlier_sup
+73;Grande Niterói;2013;81;outlier_sup
+74;Grande Niterói;2013;98;outlier_sup
+27;Capital;2013;83;outlier_sup
+28;Capital;2013;67;outlier_sup
+30;Capital;2013;77;outlier_sup
+31;Capital;2013;102;outlier_sup
+33;Capital;2013;77;outlier_sup
+34;Capital;2013;136;outlier_sup
+39;Capital;2013;95;outlier_sup
+40;Capital;2013;65;outlier_sup
+52;Baixada Fluminense;2013;73;outlier_sup
+54;Baixada Fluminense;2013;95;outlier_sup
+56;Baixada Fluminense;2013;71;outlier_sup
+58;Baixada Fluminense;2013;81;outlier_sup
+59;Baixada Fluminense;2013;143;outlier_sup
+60;Baixada Fluminense;2013;118;outlier_sup
+64;Baixada Fluminense;2013;169;outlier_sup
+72;Grande Niterói;2013;64;outlier_sup
+73;Grande Niterói;2013;77;outlier_sup
+74;Grande Niterói;2013;113;outlier_sup
+75;Grande Niterói;2013;71;outlier_sup
+27;Capital;2014;96;outlier_sup
+28;Capital;2014;65;outlier_sup
+30;Capital;2014;61;outlier_sup
+31;Capital;2014;77;outlier_sup
+33;Capital;2014;65;outlier_sup
+34;Capital;2014;117;outlier_sup
+39;Capital;2014;69;outlier_sup
+40;Capital;2014;74;outlier_sup
+52;Baixada Fluminense;2014;94;outlier_sup
+54;Baixada Fluminense;2014;73;outlier_sup
+56;Baixada Fluminense;2014;80;outlier_sup
+57;Baixada Fluminense;2014;71;outlier_sup
+58;Baixada Fluminense;2014;85;outlier_sup
+59;Baixada Fluminense;2014;172;outlier_sup
+60;Baixada Fluminense;2014;102;outlier_sup
+64;Baixada Fluminense;2014;204;outlier_sup
+72;Grande Niterói;2014;99;outlier_sup
+73;Grande Niterói;2014;99;outlier_sup
+74;Grande Niterói;2014;135;outlier_sup
+75;Grande Niterói;2014;75;outlier_sup
+78;Grande Niterói;2014;63;outlier_sup
+27;Capital;2014;84;outlier_sup
+31;Capital;2014;79;outlier_sup
+33;Capital;2014;69;outlier_sup
+34;Capital;2014;143;outlier_sup
+39;Capital;2014;74;outlier_sup
+40;Capital;2014;67;outlier_sup
+52;Baixada Fluminense;2014;109;outlier_sup
+54;Baixada Fluminense;2014;95;outlier_sup
+56;Baixada Fluminense;2014;80;outlier_sup
+57;Baixada Fluminense;2014;75;outlier_sup
+58;Baixada Fluminense;2014;69;outlier_sup
+59;Baixada Fluminense;2014;159;outlier_sup
+60;Baixada Fluminense;2014;101;outlier_sup
+64;Baixada Fluminense;2014;192;outlier_sup
+72;Grande Niterói;2014;80;outlier_sup
+73;Grande Niterói;2014;108;outlier_sup
+74;Grande Niterói;2014;146;outlier_sup
+75;Grande Niterói;2014;71;outlier_sup
+27;Capital;2014;65;outlier_sup
+31;Capital;2014;80;outlier_sup
+33;Capital;2014;70;outlier_sup
+34;Capital;2014;110;outlier_sup
+39;Capital;2014;87;outlier_sup
+40;Capital;2014;109;outlier_sup
+52;Baixada Fluminense;2014;86;outlier_sup
+54;Baixada Fluminense;2014;86;outlier_sup
+56;Baixada Fluminense;2014;88;outlier_sup
+57;Baixada Fluminense;2014;70;outlier_sup
+58;Baixada Fluminense;2014;70;outlier_sup
+59;Baixada Fluminense;2014;153;outlier_sup
+60;Baixada Fluminense;2014;95;outlier_sup
+64;Baixada Fluminense;2014;184;outlier_sup
+72;Grande Niterói;2014;72;outlier_sup
+73;Grande Niterói;2014;95;outlier_sup
+74;Grande Niterói;2014;113;outlier_sup
+75;Grande Niterói;2014;65;outlier_sup
+27;Capital;2014;82;outlier_sup
+31;Capital;2014;88;outlier_sup
+33;Capital;2014;80;outlier_sup
+34;Capital;2014;84;outlier_sup
+39;Capital;2014;66;outlier_sup
+40;Capital;2014;85;outlier_sup
+52;Baixada Fluminense;2014;88;outlier_sup
+53;Baixada Fluminense;2014;66;outlier_sup
+54;Baixada Fluminense;2014;75;outlier_sup
+56;Baixada Fluminense;2014;69;outlier_sup
+57;Baixada Fluminense;2014;64;outlier_sup
+58;Baixada Fluminense;2014;109;outlier_sup
+59;Baixada Fluminense;2014;189;outlier_sup
+60;Baixada Fluminense;2014;131;outlier_sup
+62;Baixada Fluminense;2014;66;outlier_sup
+64;Baixada Fluminense;2014;194;outlier_sup
+72;Grande Niterói;2014;96;outlier_sup
+73;Grande Niterói;2014;116;outlier_sup
+74;Grande Niterói;2014;147;outlier_sup
+27;Capital;2014;109;outlier_sup
+29;Capital;2014;62;outlier_sup
+30;Capital;2014;76;outlier_sup
+31;Capital;2014;82;outlier_sup
+33;Capital;2014;74;outlier_sup
+34;Capital;2014;115;outlier_sup
+39;Capital;2014;74;outlier_sup
+40;Capital;2014;92;outlier_sup
+52;Baixada Fluminense;2014;94;outlier_sup
+53;Baixada Fluminense;2014;63;outlier_sup
+54;Baixada Fluminense;2014;63;outlier_sup
+56;Baixada Fluminense;2014;76;outlier_sup
+57;Baixada Fluminense;2014;92;outlier_sup
+58;Baixada Fluminense;2014;70;outlier_sup
+59;Baixada Fluminense;2014;170;outlier_sup
+60;Baixada Fluminense;2014;173;outlier_sup
+64;Baixada Fluminense;2014;193;outlier_sup
+72;Grande Niterói;2014;84;outlier_sup
+73;Grande Niterói;2014;95;outlier_sup
+74;Grande Niterói;2014;123;outlier_sup
+75;Grande Niterói;2014;61;outlier_sup
+27;Capital;2014;73;outlier_sup
+30;Capital;2014;75;outlier_sup
+31;Capital;2014;62;outlier_sup
+34;Capital;2014;119;outlier_sup
+39;Capital;2014;61;outlier_sup
+40;Capital;2014;95;outlier_sup
+52;Baixada Fluminense;2014;75;outlier_sup
+54;Baixada Fluminense;2014;102;outlier_sup
+57;Baixada Fluminense;2014;64;outlier_sup
+58;Baixada Fluminense;2014;91;outlier_sup
+59;Baixada Fluminense;2014;163;outlier_sup
+60;Baixada Fluminense;2014;139;outlier_sup
+64;Baixada Fluminense;2014;141;outlier_sup
+72;Grande Niterói;2014;75;outlier_sup
+73;Grande Niterói;2014;97;outlier_sup
+74;Grande Niterói;2014;133;outlier_sup
+29;Capital;2014;64;outlier_sup
+31;Capital;2014;64;outlier_sup
+34;Capital;2014;80;outlier_sup
+40;Capital;2014;73;outlier_sup
+52;Baixada Fluminense;2014;82;outlier_sup
+54;Baixada Fluminense;2014;77;outlier_sup
+56;Baixada Fluminense;2014;61;outlier_sup
+57;Baixada Fluminense;2014;66;outlier_sup
+58;Baixada Fluminense;2014;88;outlier_sup
+59;Baixada Fluminense;2014;131;outlier_sup
+60;Baixada Fluminense;2014;106;outlier_sup
+64;Baixada Fluminense;2014;101;outlier_sup
+72;Grande Niterói;2014;70;outlier_sup
+73;Grande Niterói;2014;75;outlier_sup
+74;Grande Niterói;2014;129;outlier_sup
+75;Grande Niterói;2014;61;outlier_sup
+27;Capital;2014;75;outlier_sup
+31;Capital;2014;68;outlier_sup
+33;Capital;2014;72;outlier_sup
+34;Capital;2014;76;outlier_sup
+39;Capital;2014;65;outlier_sup
+40;Capital;2014;76;outlier_sup
+52;Baixada Fluminense;2014;98;outlier_sup
+56;Baixada Fluminense;2014;63;outlier_sup
+57;Baixada Fluminense;2014;71;outlier_sup
+58;Baixada Fluminense;2014;96;outlier_sup
+59;Baixada Fluminense;2014;142;outlier_sup
+60;Baixada Fluminense;2014;82;outlier_sup
+64;Baixada Fluminense;2014;118;outlier_sup
+73;Grande Niterói;2014;69;outlier_sup
+74;Grande Niterói;2014;66;outlier_sup
+31;Capital;2014;69;outlier_sup
+33;Capital;2014;73;outlier_sup
+34;Capital;2014;91;outlier_sup
+39;Capital;2014;86;outlier_sup
+40;Capital;2014;70;outlier_sup
+54;Baixada Fluminense;2014;82;outlier_sup
+56;Baixada Fluminense;2014;69;outlier_sup
+57;Baixada Fluminense;2014;61;outlier_sup
+58;Baixada Fluminense;2014;98;outlier_sup
+59;Baixada Fluminense;2014;100;outlier_sup
+60;Baixada Fluminense;2014;88;outlier_sup
+64;Baixada Fluminense;2014;110;outlier_sup
+73;Grande Niterói;2014;74;outlier_sup
+74;Grande Niterói;2014;70;outlier_sup
+27;Capital;2014;77;outlier_sup
+31;Capital;2014;61;outlier_sup
+33;Capital;2014;66;outlier_sup
+34;Capital;2014;81;outlier_sup
+39;Capital;2014;87;outlier_sup
+40;Capital;2014;73;outlier_sup
+52;Baixada Fluminense;2014;73;outlier_sup
+54;Baixada Fluminense;2014;87;outlier_sup
+56;Baixada Fluminense;2014;67;outlier_sup
+58;Baixada Fluminense;2014;83;outlier_sup
+59;Baixada Fluminense;2014;103;outlier_sup
+60;Baixada Fluminense;2014;66;outlier_sup
+64;Baixada Fluminense;2014;136;outlier_sup
+72;Grande Niterói;2014;70;outlier_sup
+74;Grande Niterói;2014;86;outlier_sup
+27;Capital;2014;110;outlier_sup
+29;Capital;2014;69;outlier_sup
+30;Capital;2014;65;outlier_sup
+31;Capital;2014;61;outlier_sup
+33;Capital;2014;82;outlier_sup
+34;Capital;2014;87;outlier_sup
+35;Capital;2014;71;outlier_sup
+39;Capital;2014;76;outlier_sup
+40;Capital;2014;77;outlier_sup
+52;Baixada Fluminense;2014;65;outlier_sup
+54;Baixada Fluminense;2014;74;outlier_sup
+56;Baixada Fluminense;2014;61;outlier_sup
+59;Baixada Fluminense;2014;91;outlier_sup
+60;Baixada Fluminense;2014;77;outlier_sup
+64;Baixada Fluminense;2014;106;outlier_sup
+72;Grande Niterói;2014;67;outlier_sup
+74;Grande Niterói;2014;70;outlier_sup
+27;Capital;2014;94;outlier_sup
+29;Capital;2014;78;outlier_sup
+31;Capital;2014;106;outlier_sup
+33;Capital;2014;80;outlier_sup
+34;Capital;2014;95;outlier_sup
+39;Capital;2014;77;outlier_sup
+40;Capital;2014;81;outlier_sup
+52;Baixada Fluminense;2014;65;outlier_sup
+54;Baixada Fluminense;2014;109;outlier_sup
+56;Baixada Fluminense;2014;70;outlier_sup
+57;Baixada Fluminense;2014;75;outlier_sup
+58;Baixada Fluminense;2014;85;outlier_sup
+59;Baixada Fluminense;2014;96;outlier_sup
+60;Baixada Fluminense;2014;88;outlier_sup
+64;Baixada Fluminense;2014;155;outlier_sup
+72;Grande Niterói;2014;63;outlier_sup
+73;Grande Niterói;2014;89;outlier_sup
+74;Grande Niterói;2014;115;outlier_sup
+75;Grande Niterói;2014;62;outlier_sup
+27;Capital;2015;112;outlier_sup
+28;Capital;2015;61;outlier_sup
+29;Capital;2015;64;outlier_sup
+31;Capital;2015;101;outlier_sup
+33;Capital;2015;110;outlier_sup
+34;Capital;2015;127;outlier_sup
+35;Capital;2015;64;outlier_sup
+38;Capital;2015;68;outlier_sup
+39;Capital;2015;74;outlier_sup
+40;Capital;2015;100;outlier_sup
+54;Baixada Fluminense;2015;78;outlier_sup
+56;Baixada Fluminense;2015;68;outlier_sup
+58;Baixada Fluminense;2015;82;outlier_sup
+59;Baixada Fluminense;2015;114;outlier_sup
+60;Baixada Fluminense;2015;79;outlier_sup
+64;Baixada Fluminense;2015;132;outlier_sup
+72;Grande Niterói;2015;69;outlier_sup
+73;Grande Niterói;2015;68;outlier_sup
+74;Grande Niterói;2015;108;outlier_sup
+75;Grande Niterói;2015;78;outlier_sup
+27;Capital;2015;95;outlier_sup
+29;Capital;2015;67;outlier_sup
+31;Capital;2015;133;outlier_sup
+33;Capital;2015;84;outlier_sup
+34;Capital;2015;121;outlier_sup
+38;Capital;2015;79;outlier_sup
+39;Capital;2015;79;outlier_sup
+40;Capital;2015;110;outlier_sup
+58;Baixada Fluminense;2015;70;outlier_sup
+59;Baixada Fluminense;2015;105;outlier_sup
+64;Baixada Fluminense;2015;129;outlier_sup
+73;Grande Niterói;2015;69;outlier_sup
+74;Grande Niterói;2015;83;outlier_sup
+27;Capital;2015;102;outlier_sup
+28;Capital;2015;68;outlier_sup
+29;Capital;2015;89;outlier_sup
+30;Capital;2015;70;outlier_sup
+31;Capital;2015;107;outlier_sup
+33;Capital;2015;110;outlier_sup
+34;Capital;2015;123;outlier_sup
+35;Capital;2015;64;outlier_sup
+39;Capital;2015;88;outlier_sup
+40;Capital;2015;82;outlier_sup
+52;Baixada Fluminense;2015;80;outlier_sup
+54;Baixada Fluminense;2015;81;outlier_sup
+56;Baixada Fluminense;2015;74;outlier_sup
+58;Baixada Fluminense;2015;85;outlier_sup
+59;Baixada Fluminense;2015;119;outlier_sup
+60;Baixada Fluminense;2015;83;outlier_sup
+64;Baixada Fluminense;2015;145;outlier_sup
+73;Grande Niterói;2015;64;outlier_sup
+74;Grande Niterói;2015;89;outlier_sup
+27;Capital;2015;97;outlier_sup
+28;Capital;2015;89;outlier_sup
+31;Capital;2015;92;outlier_sup
+33;Capital;2015;76;outlier_sup
+34;Capital;2015;103;outlier_sup
+35;Capital;2015;79;outlier_sup
+38;Capital;2015;64;outlier_sup
+39;Capital;2015;99;outlier_sup
+40;Capital;2015;104;outlier_sup
+52;Baixada Fluminense;2015;70;outlier_sup
+57;Baixada Fluminense;2015;61;outlier_sup
+58;Baixada Fluminense;2015;83;outlier_sup
+59;Baixada Fluminense;2015;110;outlier_sup
+60;Baixada Fluminense;2015;66;outlier_sup
+64;Baixada Fluminense;2015;151;outlier_sup
+73;Grande Niterói;2015;71;outlier_sup
+74;Grande Niterói;2015;75;outlier_sup
+27;Capital;2015;92;outlier_sup
+28;Capital;2015;80;outlier_sup
+30;Capital;2015;70;outlier_sup
+31;Capital;2015;76;outlier_sup
+35;Capital;2015;77;outlier_sup
+38;Capital;2015;63;outlier_sup
+39;Capital;2015;71;outlier_sup
+40;Capital;2015;90;outlier_sup
+54;Baixada Fluminense;2015;85;outlier_sup
+56;Baixada Fluminense;2015;81;outlier_sup
+59;Baixada Fluminense;2015;108;outlier_sup
+64;Baixada Fluminense;2015;129;outlier_sup
+73;Grande Niterói;2015;79;outlier_sup
+74;Grande Niterói;2015;84;outlier_sup
+27;Capital;2015;113;outlier_sup
+29;Capital;2015;76;outlier_sup
+31;Capital;2015;81;outlier_sup
+39;Capital;2015;78;outlier_sup
+40;Capital;2015;91;outlier_sup
+52;Baixada Fluminense;2015;62;outlier_sup
+56;Baixada Fluminense;2015;65;outlier_sup
+59;Baixada Fluminense;2015;116;outlier_sup
+60;Baixada Fluminense;2015;78;outlier_sup
+64;Baixada Fluminense;2015;140;outlier_sup
+74;Grande Niterói;2015;68;outlier_sup
+27;Capital;2015;108;outlier_sup
+30;Capital;2015;61;outlier_sup
+31;Capital;2015;82;outlier_sup
+33;Capital;2015;61;outlier_sup
+34;Capital;2015;71;outlier_sup
+35;Capital;2015;66;outlier_sup
+39;Capital;2015;84;outlier_sup
+40;Capital;2015;87;outlier_sup
+58;Baixada Fluminense;2015;68;outlier_sup
+59;Baixada Fluminense;2015;130;outlier_sup
+60;Baixada Fluminense;2015;86;outlier_sup
+64;Baixada Fluminense;2015;141;outlier_sup
+73;Grande Niterói;2015;85;outlier_sup
+75;Grande Niterói;2015;63;outlier_sup
+27;Capital;2015;78;outlier_sup
+28;Capital;2015;62;outlier_sup
+31;Capital;2015;89;outlier_sup
+34;Capital;2015;75;outlier_sup
+39;Capital;2015;99;outlier_sup
+40;Capital;2015;90;outlier_sup
+52;Baixada Fluminense;2015;67;outlier_sup
+56;Baixada Fluminense;2015;69;outlier_sup
+57;Baixada Fluminense;2015;65;outlier_sup
+58;Baixada Fluminense;2015;74;outlier_sup
+59;Baixada Fluminense;2015;109;outlier_sup
+60;Baixada Fluminense;2015;79;outlier_sup
+64;Baixada Fluminense;2015;122;outlier_sup
+72;Grande Niterói;2015;63;outlier_sup
+74;Grande Niterói;2015;69;outlier_sup
+27;Capital;2015;80;outlier_sup
+31;Capital;2015;61;outlier_sup
+33;Capital;2015;78;outlier_sup
+34;Capital;2015;106;outlier_sup
+35;Capital;2015;72;outlier_sup
+39;Capital;2015;121;outlier_sup
+40;Capital;2015;102;outlier_sup
+58;Baixada Fluminense;2015;66;outlier_sup
+59;Baixada Fluminense;2015;101;outlier_sup
+60;Baixada Fluminense;2015;78;outlier_sup
+64;Baixada Fluminense;2015;105;outlier_sup
+72;Grande Niterói;2015;63;outlier_sup
+73;Grande Niterói;2015;65;outlier_sup
+74;Grande Niterói;2015;63;outlier_sup
+27;Capital;2015;101;outlier_sup
+28;Capital;2015;63;outlier_sup
+34;Capital;2015;97;outlier_sup
+35;Capital;2015;88;outlier_sup
+39;Capital;2015;134;outlier_sup
+40;Capital;2015;119;outlier_sup
+52;Baixada Fluminense;2015;64;outlier_sup
+54;Baixada Fluminense;2015;68;outlier_sup
+59;Baixada Fluminense;2015;95;outlier_sup
+60;Baixada Fluminense;2015;61;outlier_sup
+64;Baixada Fluminense;2015;113;outlier_sup
+72;Grande Niterói;2015;63;outlier_sup
+73;Grande Niterói;2015;84;outlier_sup
+74;Grande Niterói;2015;66;outlier_sup
+27;Capital;2015;104;outlier_sup
+29;Capital;2015;61;outlier_sup
+31;Capital;2015;65;outlier_sup
+33;Capital;2015;69;outlier_sup
+34;Capital;2015;95;outlier_sup
+35;Capital;2015;107;outlier_sup
+39;Capital;2015;103;outlier_sup
+40;Capital;2015;99;outlier_sup
+44;Capital;2015;64;outlier_sup
+52;Baixada Fluminense;2015;75;outlier_sup
+54;Baixada Fluminense;2015;64;outlier_sup
+56;Baixada Fluminense;2015;75;outlier_sup
+57;Baixada Fluminense;2015;84;outlier_sup
+58;Baixada Fluminense;2015;71;outlier_sup
+59;Baixada Fluminense;2015;109;outlier_sup
+60;Baixada Fluminense;2015;69;outlier_sup
+64;Baixada Fluminense;2015;160;outlier_sup
+27;Capital;2015;144;outlier_sup
+28;Capital;2015;69;outlier_sup
+29;Capital;2015;86;outlier_sup
+31;Capital;2015;93;outlier_sup
+33;Capital;2015;63;outlier_sup
+34;Capital;2015;106;outlier_sup
+35;Capital;2015;170;outlier_sup
+38;Capital;2015;68;outlier_sup
+39;Capital;2015;98;outlier_sup
+40;Capital;2015;101;outlier_sup
+44;Capital;2015;69;outlier_sup
+50;Baixada Fluminense;2015;63;outlier_sup
+52;Baixada Fluminense;2015;65;outlier_sup
+56;Baixada Fluminense;2015;77;outlier_sup
+57;Baixada Fluminense;2015;98;outlier_sup
+58;Baixada Fluminense;2015;77;outlier_sup
+59;Baixada Fluminense;2015;122;outlier_sup
+60;Baixada Fluminense;2015;95;outlier_sup
+64;Baixada Fluminense;2015;180;outlier_sup
+73;Grande Niterói;2015;80;outlier_sup
+74;Grande Niterói;2015;85;outlier_sup
+75;Grande Niterói;2015;71;outlier_sup
+27;Capital;2016;108;outlier_sup
+28;Capital;2016;67;outlier_sup
+29;Capital;2016;80;outlier_sup
+30;Capital;2016;62;outlier_sup
+31;Capital;2016;95;outlier_sup
+33;Capital;2016;93;outlier_sup
+34;Capital;2016;137;outlier_sup
+35;Capital;2016;117;outlier_sup
+38;Capital;2016;73;outlier_sup
+39;Capital;2016;86;outlier_sup
+40;Capital;2016;89;outlier_sup
+44;Capital;2016;72;outlier_sup
+52;Baixada Fluminense;2016;68;outlier_sup
+54;Baixada Fluminense;2016;77;outlier_sup
+56;Baixada Fluminense;2016;68;outlier_sup
+57;Baixada Fluminense;2016;111;outlier_sup
+58;Baixada Fluminense;2016;77;outlier_sup
+59;Baixada Fluminense;2016;167;outlier_sup
+64;Baixada Fluminense;2016;188;outlier_sup
+72;Grande Niterói;2016;67;outlier_sup
+73;Grande Niterói;2016;102;outlier_sup
+74;Grande Niterói;2016;104;outlier_sup
+75;Grande Niterói;2016;94;outlier_sup
+27;Capital;2016;135;outlier_sup
+28;Capital;2016;74;outlier_sup
+31;Capital;2016;86;outlier_sup
+33;Capital;2016;78;outlier_sup
+34;Capital;2016;114;outlier_sup
+35;Capital;2016;71;outlier_sup
+38;Capital;2016;67;outlier_sup
+39;Capital;2016;98;outlier_sup
+40;Capital;2016;129;outlier_sup
+44;Capital;2016;65;outlier_sup
+52;Baixada Fluminense;2016;80;outlier_sup
+57;Baixada Fluminense;2016;101;outlier_sup
+58;Baixada Fluminense;2016;67;outlier_sup
+59;Baixada Fluminense;2016;145;outlier_sup
+64;Baixada Fluminense;2016;154;outlier_sup
+72;Grande Niterói;2016;72;outlier_sup
+73;Grande Niterói;2016;82;outlier_sup
+74;Grande Niterói;2016;111;outlier_sup
+75;Grande Niterói;2016;99;outlier_sup
+27;Capital;2016;131;outlier_sup
+29;Capital;2016;66;outlier_sup
+31;Capital;2016;93;outlier_sup
+33;Capital;2016;83;outlier_sup
+34;Capital;2016;97;outlier_sup
+35;Capital;2016;75;outlier_sup
+38;Capital;2016;62;outlier_sup
+39;Capital;2016;143;outlier_sup
+40;Capital;2016;125;outlier_sup
+44;Capital;2016;62;outlier_sup
+52;Baixada Fluminense;2016;93;outlier_sup
+53;Baixada Fluminense;2016;66;outlier_sup
+54;Baixada Fluminense;2016;65;outlier_sup
+56;Baixada Fluminense;2016;79;outlier_sup
+57;Baixada Fluminense;2016;100;outlier_sup
+58;Baixada Fluminense;2016;78;outlier_sup
+59;Baixada Fluminense;2016;127;outlier_sup
+64;Baixada Fluminense;2016;216;outlier_sup
+72;Grande Niterói;2016;85;outlier_sup
+73;Grande Niterói;2016;93;outlier_sup
+74;Grande Niterói;2016;106;outlier_sup
+75;Grande Niterói;2016;92;outlier_sup
+27;Capital;2016;85;outlier_sup
+28;Capital;2016;75;outlier_sup
+31;Capital;2016;82;outlier_sup
+33;Capital;2016;63;outlier_sup
+34;Capital;2016;102;outlier_sup
+35;Capital;2016;78;outlier_sup
+39;Capital;2016;115;outlier_sup
+40;Capital;2016;114;outlier_sup
+52;Baixada Fluminense;2016;75;outlier_sup
+54;Baixada Fluminense;2016;88;outlier_sup
+56;Baixada Fluminense;2016;93;outlier_sup
+57;Baixada Fluminense;2016;85;outlier_sup
+58;Baixada Fluminense;2016;110;outlier_sup
+59;Baixada Fluminense;2016;137;outlier_sup
+60;Baixada Fluminense;2016;68;outlier_sup
+64;Baixada Fluminense;2016;188;outlier_sup
+72;Grande Niterói;2016;81;outlier_sup
+73;Grande Niterói;2016;80;outlier_sup
+74;Grande Niterói;2016;126;outlier_sup
+75;Grande Niterói;2016;66;outlier_sup
+27;Capital;2016;109;outlier_sup
+28;Capital;2016;90;outlier_sup
+29;Capital;2016;81;outlier_sup
+31;Capital;2016;113;outlier_sup
+34;Capital;2016;73;outlier_sup
+35;Capital;2016;80;outlier_sup
+38;Capital;2016;78;outlier_sup
+39;Capital;2016;144;outlier_sup
+40;Capital;2016;136;outlier_sup
+52;Baixada Fluminense;2016;65;outlier_sup
+54;Baixada Fluminense;2016;71;outlier_sup
+56;Baixada Fluminense;2016;89;outlier_sup
+57;Baixada Fluminense;2016;79;outlier_sup
+58;Baixada Fluminense;2016;86;outlier_sup
+59;Baixada Fluminense;2016;130;outlier_sup
+64;Baixada Fluminense;2016;207;outlier_sup
+72;Grande Niterói;2016;90;outlier_sup
+73;Grande Niterói;2016;87;outlier_sup
+74;Grande Niterói;2016;119;outlier_sup
+75;Grande Niterói;2016;71;outlier_sup
+22;Capital;2016;72;outlier_sup
+27;Capital;2016;134;outlier_sup
+28;Capital;2016;76;outlier_sup
+29;Capital;2016;74;outlier_sup
+30;Capital;2016;61;outlier_sup
+31;Capital;2016;93;outlier_sup
+33;Capital;2016;65;outlier_sup
+34;Capital;2016;106;outlier_sup
+35;Capital;2016;90;outlier_sup
+38;Capital;2016;79;outlier_sup
+39;Capital;2016;148;outlier_sup
+40;Capital;2016;143;outlier_sup
+52;Baixada Fluminense;2016;86;outlier_sup
+54;Baixada Fluminense;2016;81;outlier_sup
+56;Baixada Fluminense;2016;71;outlier_sup
+57;Baixada Fluminense;2016;109;outlier_sup
+58;Baixada Fluminense;2016;77;outlier_sup
+59;Baixada Fluminense;2016;125;outlier_sup
+60;Baixada Fluminense;2016;83;outlier_sup
+64;Baixada Fluminense;2016;225;outlier_sup
+72;Grande Niterói;2016;74;outlier_sup
+73;Grande Niterói;2016;101;outlier_sup
+74;Grande Niterói;2016;112;outlier_sup
+27;Capital;2016;139;outlier_sup
+29;Capital;2016;65;outlier_sup
+31;Capital;2016;89;outlier_sup
+34;Capital;2016;101;outlier_sup
+35;Capital;2016;79;outlier_sup
+39;Capital;2016;92;outlier_sup
+40;Capital;2016;107;outlier_sup
+52;Baixada Fluminense;2016;92;outlier_sup
+54;Baixada Fluminense;2016;88;outlier_sup
+56;Baixada Fluminense;2016;75;outlier_sup
+57;Baixada Fluminense;2016;80;outlier_sup
+58;Baixada Fluminense;2016;93;outlier_sup
+59;Baixada Fluminense;2016;131;outlier_sup
+60;Baixada Fluminense;2016;71;outlier_sup
+64;Baixada Fluminense;2016;210;outlier_sup
+72;Grande Niterói;2016;88;outlier_sup
+73;Grande Niterói;2016;74;outlier_sup
+74;Grande Niterói;2016;112;outlier_sup
+75;Grande Niterói;2016;64;outlier_sup
+22;Capital;2016;74;outlier_sup
+27;Capital;2016;100;outlier_sup
+29;Capital;2016;62;outlier_sup
+31;Capital;2016;90;outlier_sup
+34;Capital;2016;89;outlier_sup
+35;Capital;2016;77;outlier_sup
+38;Capital;2016;70;outlier_sup
+39;Capital;2016;103;outlier_sup
+40;Capital;2016;84;outlier_sup
+52;Baixada Fluminense;2016;78;outlier_sup
+53;Baixada Fluminense;2016;62;outlier_sup
+54;Baixada Fluminense;2016;109;outlier_sup
+56;Baixada Fluminense;2016;93;outlier_sup
+57;Baixada Fluminense;2016;134;outlier_sup
+58;Baixada Fluminense;2016;74;outlier_sup
+59;Baixada Fluminense;2016;150;outlier_sup
+60;Baixada Fluminense;2016;70;outlier_sup
+64;Baixada Fluminense;2016;214;outlier_sup
+72;Grande Niterói;2016;103;outlier_sup
+73;Grande Niterói;2016;80;outlier_sup
+74;Grande Niterói;2016;77;outlier_sup
+75;Grande Niterói;2016;102;outlier_sup
+27;Capital;2016;108;outlier_sup
+31;Capital;2016;131;outlier_sup
+34;Capital;2016;88;outlier_sup
+35;Capital;2016;98;outlier_sup
+39;Capital;2016;138;outlier_sup
+40;Capital;2016;105;outlier_sup
+52;Baixada Fluminense;2016;82;outlier_sup
+53;Baixada Fluminense;2016;70;outlier_sup
+54;Baixada Fluminense;2016;120;outlier_sup
+56;Baixada Fluminense;2016;69;outlier_sup
+57;Baixada Fluminense;2016;110;outlier_sup
+58;Baixada Fluminense;2016;89;outlier_sup
+59;Baixada Fluminense;2016;167;outlier_sup
+60;Baixada Fluminense;2016;95;outlier_sup
+64;Baixada Fluminense;2016;213;outlier_sup
+71;Interior;2016;67;outlier_sup
+72;Grande Niterói;2016;121;outlier_sup
+73;Grande Niterói;2016;114;outlier_sup
+74;Grande Niterói;2016;101;outlier_sup
+75;Grande Niterói;2016;96;outlier_sup
+22;Capital;2016;66;outlier_sup
+27;Capital;2016;139;outlier_sup
+29;Capital;2016;81;outlier_sup
+31;Capital;2016;139;outlier_sup
+33;Capital;2016;71;outlier_sup
+34;Capital;2016;119;outlier_sup
+35;Capital;2016;103;outlier_sup
+38;Capital;2016;75;outlier_sup
+39;Capital;2016;153;outlier_sup
+40;Capital;2016;148;outlier_sup
+52;Baixada Fluminense;2016;91;outlier_sup
+53;Baixada Fluminense;2016;86;outlier_sup
+54;Baixada Fluminense;2016;182;outlier_sup
+56;Baixada Fluminense;2016;107;outlier_sup
+57;Baixada Fluminense;2016;165;outlier_sup
+58;Baixada Fluminense;2016;110;outlier_sup
+59;Baixada Fluminense;2016;199;outlier_sup
+60;Baixada Fluminense;2016;79;outlier_sup
+64;Baixada Fluminense;2016;291;outlier_sup
+71;Interior;2016;74;outlier_sup
+72;Grande Niterói;2016;141;outlier_sup
+73;Grande Niterói;2016;138;outlier_sup
+74;Grande Niterói;2016;126;outlier_sup
+75;Grande Niterói;2016;89;outlier_sup
+78;Grande Niterói;2016;62;outlier_sup
+27;Capital;2016;145;outlier_sup
+29;Capital;2016;86;outlier_sup
+31;Capital;2016;141;outlier_sup
+33;Capital;2016;79;outlier_sup
+34;Capital;2016;133;outlier_sup
+35;Capital;2016;109;outlier_sup
+38;Capital;2016;96;outlier_sup
+39;Capital;2016;149;outlier_sup
+40;Capital;2016;154;outlier_sup
+52;Baixada Fluminense;2016;114;outlier_sup
+53;Baixada Fluminense;2016;87;outlier_sup
+54;Baixada Fluminense;2016;162;outlier_sup
+56;Baixada Fluminense;2016;66;outlier_sup
+57;Baixada Fluminense;2016;157;outlier_sup
+58;Baixada Fluminense;2016;100;outlier_sup
+59;Baixada Fluminense;2016;197;outlier_sup
+60;Baixada Fluminense;2016;72;outlier_sup
+64;Baixada Fluminense;2016;286;outlier_sup
+72;Grande Niterói;2016;107;outlier_sup
+73;Grande Niterói;2016;121;outlier_sup
+74;Grande Niterói;2016;101;outlier_sup
+75;Grande Niterói;2016;68;outlier_sup
+78;Grande Niterói;2016;66;outlier_sup
+22;Capital;2016;88;outlier_sup
+27;Capital;2016;117;outlier_sup
+30;Capital;2016;63;outlier_sup
+31;Capital;2016;148;outlier_sup
+33;Capital;2016;75;outlier_sup
+34;Capital;2016;188;outlier_sup
+35;Capital;2016;140;outlier_sup
+38;Capital;2016;84;outlier_sup
+39;Capital;2016;150;outlier_sup
+40;Capital;2016;181;outlier_sup
+52;Baixada Fluminense;2016;119;outlier_sup
+53;Baixada Fluminense;2016;84;outlier_sup
+54;Baixada Fluminense;2016;154;outlier_sup
+56;Baixada Fluminense;2016;79;outlier_sup
+57;Baixada Fluminense;2016;164;outlier_sup
+58;Baixada Fluminense;2016;133;outlier_sup
+59;Baixada Fluminense;2016;187;outlier_sup
+60;Baixada Fluminense;2016;106;outlier_sup
+64;Baixada Fluminense;2016;262;outlier_sup
+72;Grande Niterói;2016;117;outlier_sup
+73;Grande Niterói;2016;93;outlier_sup
+74;Grande Niterói;2016;123;outlier_sup
+27;Capital;2017;110;outlier_sup
+29;Capital;2017;95;outlier_sup
+31;Capital;2017;139;outlier_sup
+33;Capital;2017;82;outlier_sup
+34;Capital;2017;158;outlier_sup
+35;Capital;2017;128;outlier_sup
+38;Capital;2017;89;outlier_sup
+39;Capital;2017;161;outlier_sup
+40;Capital;2017;175;outlier_sup
+52;Baixada Fluminense;2017;122;outlier_sup
+53;Baixada Fluminense;2017;79;outlier_sup
+54;Baixada Fluminense;2017;174;outlier_sup
+56;Baixada Fluminense;2017;73;outlier_sup
+57;Baixada Fluminense;2017;142;outlier_sup
+58;Baixada Fluminense;2017;99;outlier_sup
+59;Baixada Fluminense;2017;185;outlier_sup
+60;Baixada Fluminense;2017;82;outlier_sup
+64;Baixada Fluminense;2017;296;outlier_sup
+72;Grande Niterói;2017;105;outlier_sup
+73;Grande Niterói;2017;102;outlier_sup
+74;Grande Niterói;2017;124;outlier_sup
+18;Capital;2017;70;outlier_sup
+21;Capital;2017;88;outlier_sup
+22;Capital;2017;77;outlier_sup
+25;Capital;2017;75;outlier_sup
+27;Capital;2017;120;outlier_sup
+29;Capital;2017;107;outlier_sup
+31;Capital;2017;109;outlier_sup
+34;Capital;2017;147;outlier_sup
+35;Capital;2017;126;outlier_sup
+38;Capital;2017;93;outlier_sup
+39;Capital;2017;123;outlier_sup
+40;Capital;2017;133;outlier_sup
+52;Baixada Fluminense;2017;110;outlier_sup
+53;Baixada Fluminense;2017;74;outlier_sup
+54;Baixada Fluminense;2017;175;outlier_sup
+56;Baixada Fluminense;2017;73;outlier_sup
+57;Baixada Fluminense;2017;105;outlier_sup
+58;Baixada Fluminense;2017;116;outlier_sup
+59;Baixada Fluminense;2017;192;outlier_sup
+60;Baixada Fluminense;2017;85;outlier_sup
+64;Baixada Fluminense;2017;273;outlier_sup
+71;Interior;2017;76;outlier_sup
+72;Grande Niterói;2017;140;outlier_sup
+73;Grande Niterói;2017;134;outlier_sup
+74;Grande Niterói;2017;143;outlier_sup
+78;Grande Niterói;2017;68;outlier_sup
+20;Capital;2017;61;outlier_sup
+21;Capital;2017;75;outlier_sup
+25;Capital;2017;80;outlier_sup
+26;Capital;2017;66;outlier_sup
+27;Capital;2017;130;outlier_sup
+28;Capital;2017;72;outlier_sup
+29;Capital;2017;117;outlier_sup
+31;Capital;2017;113;outlier_sup
+33;Capital;2017;90;outlier_sup
+34;Capital;2017;170;outlier_sup
+35;Capital;2017;175;outlier_sup
+38;Capital;2017;98;outlier_sup
+39;Capital;2017;169;outlier_sup
+40;Capital;2017;203;outlier_sup
+52;Baixada Fluminense;2017;125;outlier_sup
+53;Baixada Fluminense;2017;83;outlier_sup
+54;Baixada Fluminense;2017;175;outlier_sup
+56;Baixada Fluminense;2017;85;outlier_sup
+57;Baixada Fluminense;2017;169;outlier_sup
+58;Baixada Fluminense;2017;130;outlier_sup
+59;Baixada Fluminense;2017;189;outlier_sup
+60;Baixada Fluminense;2017;105;outlier_sup
+64;Baixada Fluminense;2017;317;outlier_sup
+71;Interior;2017;100;outlier_sup
+72;Grande Niterói;2017;172;outlier_sup
+73;Grande Niterói;2017;175;outlier_sup
+74;Grande Niterói;2017;140;outlier_sup
+75;Grande Niterói;2017;70;outlier_sup
+78;Grande Niterói;2017;80;outlier_sup
+21;Capital;2017;81;outlier_sup
+26;Capital;2017;78;outlier_sup
+27;Capital;2017;129;outlier_sup
+28;Capital;2017;78;outlier_sup
+29;Capital;2017;112;outlier_sup
+30;Capital;2017;72;outlier_sup
+31;Capital;2017;85;outlier_sup
+33;Capital;2017;97;outlier_sup
+34;Capital;2017;154;outlier_sup
+35;Capital;2017;172;outlier_sup
+38;Capital;2017;77;outlier_sup
+39;Capital;2017;186;outlier_sup
+40;Capital;2017;178;outlier_sup
+42;Capital;2017;63;outlier_sup
+50;Baixada Fluminense;2017;70;outlier_sup
+52;Baixada Fluminense;2017;127;outlier_sup
+53;Baixada Fluminense;2017;82;outlier_sup
+54;Baixada Fluminense;2017;147;outlier_sup
+56;Baixada Fluminense;2017;104;outlier_sup
+57;Baixada Fluminense;2017;195;outlier_sup
+58;Baixada Fluminense;2017;135;outlier_sup
+59;Baixada Fluminense;2017;229;outlier_sup
+60;Baixada Fluminense;2017;108;outlier_sup
+64;Baixada Fluminense;2017;276;outlier_sup
+71;Interior;2017;69;outlier_sup
+72;Grande Niterói;2017;168;outlier_sup
+73;Grande Niterói;2017;142;outlier_sup
+74;Grande Niterói;2017;161;outlier_sup
+75;Grande Niterói;2017;75;outlier_sup
+78;Grande Niterói;2017;88;outlier_sup
+21;Capital;2017;86;outlier_sup
+24;Capital;2017;62;outlier_sup
+26;Capital;2017;66;outlier_sup
+27;Capital;2017;143;outlier_sup
+28;Capital;2017;73;outlier_sup
+29;Capital;2017;95;outlier_sup
+30;Capital;2017;83;outlier_sup
+31;Capital;2017;115;outlier_sup
+33;Capital;2017;63;outlier_sup
+34;Capital;2017;172;outlier_sup
+35;Capital;2017;125;outlier_sup
+38;Capital;2017;74;outlier_sup
+39;Capital;2017;165;outlier_sup
+40;Capital;2017;252;outlier_sup
+52;Baixada Fluminense;2017;99;outlier_sup
+53;Baixada Fluminense;2017;64;outlier_sup
+54;Baixada Fluminense;2017;141;outlier_sup
+56;Baixada Fluminense;2017;72;outlier_sup
+57;Baixada Fluminense;2017;164;outlier_sup
+58;Baixada Fluminense;2017;102;outlier_sup
+59;Baixada Fluminense;2017;214;outlier_sup
+60;Baixada Fluminense;2017;108;outlier_sup
+64;Baixada Fluminense;2017;284;outlier_sup
+71;Interior;2017;83;outlier_sup
+72;Grande Niterói;2017;153;outlier_sup
+73;Grande Niterói;2017;128;outlier_sup
+74;Grande Niterói;2017;158;outlier_sup
+75;Grande Niterói;2017;78;outlier_sup
+78;Grande Niterói;2017;68;outlier_sup
+21;Capital;2017;91;outlier_sup
+25;Capital;2017;71;outlier_sup
+26;Capital;2017;71;outlier_sup
+27;Capital;2017;151;outlier_sup
+28;Capital;2017;73;outlier_sup
+29;Capital;2017;93;outlier_sup
+30;Capital;2017;85;outlier_sup
+31;Capital;2017;138;outlier_sup
+33;Capital;2017;76;outlier_sup
+34;Capital;2017;176;outlier_sup
+35;Capital;2017;117;outlier_sup
+38;Capital;2017;96;outlier_sup
+39;Capital;2017;166;outlier_sup
+40;Capital;2017;242;outlier_sup
+52;Baixada Fluminense;2017;84;outlier_sup
+53;Baixada Fluminense;2017;68;outlier_sup
+54;Baixada Fluminense;2017;132;outlier_sup
+56;Baixada Fluminense;2017;67;outlier_sup
+57;Baixada Fluminense;2017;135;outlier_sup
+58;Baixada Fluminense;2017;113;outlier_sup
+59;Baixada Fluminense;2017;264;outlier_sup
+60;Baixada Fluminense;2017;108;outlier_sup
+64;Baixada Fluminense;2017;272;outlier_sup
+71;Interior;2017;84;outlier_sup
+72;Grande Niterói;2017;111;outlier_sup
+73;Grande Niterói;2017;89;outlier_sup
+74;Grande Niterói;2017;141;outlier_sup
+75;Grande Niterói;2017;82;outlier_sup
+78;Grande Niterói;2017;77;outlier_sup
+21;Capital;2017;85;outlier_sup
+22;Capital;2017;69;outlier_sup
+25;Capital;2017;78;outlier_sup
+26;Capital;2017;65;outlier_sup
+27;Capital;2017;143;outlier_sup
+29;Capital;2017;106;outlier_sup
+31;Capital;2017;154;outlier_sup
+33;Capital;2017;70;outlier_sup
+34;Capital;2017;248;outlier_sup
+35;Capital;2017;132;outlier_sup
+38;Capital;2017;142;outlier_sup
+39;Capital;2017;180;outlier_sup
+40;Capital;2017;211;outlier_sup
+44;Capital;2017;77;outlier_sup
+52;Baixada Fluminense;2017;92;outlier_sup
+53;Baixada Fluminense;2017;74;outlier_sup
+54;Baixada Fluminense;2017;176;outlier_sup
+56;Baixada Fluminense;2017;79;outlier_sup
+57;Baixada Fluminense;2017;152;outlier_sup
+58;Baixada Fluminense;2017;80;outlier_sup
+59;Baixada Fluminense;2017;266;outlier_sup
+60;Baixada Fluminense;2017;104;outlier_sup
+64;Baixada Fluminense;2017;350;outlier_sup
+71;Interior;2017;90;outlier_sup
+72;Grande Niterói;2017;133;outlier_sup
+73;Grande Niterói;2017;94;outlier_sup
+74;Grande Niterói;2017;173;outlier_sup
+75;Grande Niterói;2017;89;outlier_sup
+78;Grande Niterói;2017;95;outlier_sup
+22;Capital;2017;64;outlier_sup
+25;Capital;2017;88;outlier_sup
+27;Capital;2017;131;outlier_sup
+29;Capital;2017;103;outlier_sup
+30;Capital;2017;71;outlier_sup
+31;Capital;2017;111;outlier_sup
+33;Capital;2017;85;outlier_sup
+34;Capital;2017;195;outlier_sup
+35;Capital;2017;130;outlier_sup
+38;Capital;2017;127;outlier_sup
+39;Capital;2017;154;outlier_sup
+40;Capital;2017;161;outlier_sup
+44;Capital;2017;63;outlier_sup
+52;Baixada Fluminense;2017;84;outlier_sup
+54;Baixada Fluminense;2017;201;outlier_sup
+56;Baixada Fluminense;2017;102;outlier_sup
+57;Baixada Fluminense;2017;107;outlier_sup
+58;Baixada Fluminense;2017;136;outlier_sup
+59;Baixada Fluminense;2017;257;outlier_sup
+60;Baixada Fluminense;2017;120;outlier_sup
+64;Baixada Fluminense;2017;312;outlier_sup
+71;Interior;2017;82;outlier_sup
+72;Grande Niterói;2017;148;outlier_sup
+73;Grande Niterói;2017;138;outlier_sup
+74;Grande Niterói;2017;175;outlier_sup
+75;Grande Niterói;2017;117;outlier_sup
+78;Grande Niterói;2017;79;outlier_sup
+21;Capital;2017;71;outlier_sup
+24;Capital;2017;61;outlier_sup
+25;Capital;2017;62;outlier_sup
+27;Capital;2017;143;outlier_sup
+29;Capital;2017;111;outlier_sup
+31;Capital;2017;91;outlier_sup
+33;Capital;2017;64;outlier_sup
+34;Capital;2017;182;outlier_sup
+35;Capital;2017;85;outlier_sup
+38;Capital;2017;114;outlier_sup
+39;Capital;2017;153;outlier_sup
+40;Capital;2017;184;outlier_sup
+44;Capital;2017;64;outlier_sup
+52;Baixada Fluminense;2017;78;outlier_sup
+54;Baixada Fluminense;2017;196;outlier_sup
+56;Baixada Fluminense;2017;68;outlier_sup
+57;Baixada Fluminense;2017;71;outlier_sup
+58;Baixada Fluminense;2017;114;outlier_sup
+59;Baixada Fluminense;2017;186;outlier_sup
+60;Baixada Fluminense;2017;115;outlier_sup
+64;Baixada Fluminense;2017;271;outlier_sup
+71;Interior;2017;66;outlier_sup
+72;Grande Niterói;2017;141;outlier_sup
+73;Grande Niterói;2017;146;outlier_sup
+74;Grande Niterói;2017;164;outlier_sup
+75;Grande Niterói;2017;132;outlier_sup
+78;Grande Niterói;2017;86;outlier_sup
+24;Capital;2017;80;outlier_sup
+25;Capital;2017;74;outlier_sup
+26;Capital;2017;82;outlier_sup
+27;Capital;2017;93;outlier_sup
+29;Capital;2017;148;outlier_sup
+30;Capital;2017;64;outlier_sup
+31;Capital;2017;98;outlier_sup
+33;Capital;2017;70;outlier_sup
+34;Capital;2017;205;outlier_sup
+35;Capital;2017;90;outlier_sup
+38;Capital;2017;70;outlier_sup
+39;Capital;2017;157;outlier_sup
+40;Capital;2017;152;outlier_sup
+44;Capital;2017;65;outlier_sup
+52;Baixada Fluminense;2017;65;outlier_sup
+54;Baixada Fluminense;2017;177;outlier_sup
+56;Baixada Fluminense;2017;77;outlier_sup
+57;Baixada Fluminense;2017;75;outlier_sup
+58;Baixada Fluminense;2017;95;outlier_sup
+59;Baixada Fluminense;2017;187;outlier_sup
+60;Baixada Fluminense;2017;107;outlier_sup
+64;Baixada Fluminense;2017;248;outlier_sup
+71;Interior;2017;79;outlier_sup
+72;Grande Niterói;2017;160;outlier_sup
+73;Grande Niterói;2017;150;outlier_sup
+74;Grande Niterói;2017;155;outlier_sup
+75;Grande Niterói;2017;141;outlier_sup
+24;Capital;2017;87;outlier_sup
+25;Capital;2017;82;outlier_sup
+27;Capital;2017;112;outlier_sup
+29;Capital;2017;143;outlier_sup
+30;Capital;2017;71;outlier_sup
+31;Capital;2017;90;outlier_sup
+33;Capital;2017;87;outlier_sup
+34;Capital;2017;192;outlier_sup
+35;Capital;2017;163;outlier_sup
+38;Capital;2017;82;outlier_sup
+39;Capital;2017;141;outlier_sup
+40;Capital;2017;141;outlier_sup
+44;Capital;2017;65;outlier_sup
+52;Baixada Fluminense;2017;85;outlier_sup
+54;Baixada Fluminense;2017;144;outlier_sup
+56;Baixada Fluminense;2017;81;outlier_sup
+57;Baixada Fluminense;2017;86;outlier_sup
+58;Baixada Fluminense;2017;90;outlier_sup
+59;Baixada Fluminense;2017;167;outlier_sup
+60;Baixada Fluminense;2017;113;outlier_sup
+64;Baixada Fluminense;2017;249;outlier_sup
+71;Interior;2017;79;outlier_sup
+72;Grande Niterói;2017;112;outlier_sup
+73;Grande Niterói;2017;112;outlier_sup
+74;Grande Niterói;2017;138;outlier_sup
+75;Grande Niterói;2017;121;outlier_sup
+22;Capital;2017;61;outlier_sup
+25;Capital;2017;78;outlier_sup
+26;Capital;2017;68;outlier_sup
+27;Capital;2017;118;outlier_sup
+29;Capital;2017;138;outlier_sup
+30;Capital;2017;79;outlier_sup
+31;Capital;2017;143;outlier_sup
+33;Capital;2017;94;outlier_sup
+34;Capital;2017;198;outlier_sup
+35;Capital;2017;132;outlier_sup
+38;Capital;2017;110;outlier_sup
+39;Capital;2017;192;outlier_sup
+40;Capital;2017;142;outlier_sup
+50;Baixada Fluminense;2017;62;outlier_sup
+52;Baixada Fluminense;2017;83;outlier_sup
+54;Baixada Fluminense;2017;160;outlier_sup
+56;Baixada Fluminense;2017;81;outlier_sup
+57;Baixada Fluminense;2017;78;outlier_sup
+58;Baixada Fluminense;2017;110;outlier_sup
+59;Baixada Fluminense;2017;194;outlier_sup
+60;Baixada Fluminense;2017;90;outlier_sup
+64;Baixada Fluminense;2017;257;outlier_sup
+71;Interior;2017;108;outlier_sup
+72;Grande Niterói;2017;115;outlier_sup
+73;Grande Niterói;2017;160;outlier_sup
+74;Grande Niterói;2017;129;outlier_sup
+75;Grande Niterói;2017;101;outlier_sup
+78;Grande Niterói;2017;80;outlier_sup
+21;Capital;2018;68;outlier_sup
+24;Capital;2018;78;outlier_sup
+25;Capital;2018;108;outlier_sup
+26;Capital;2018;95;outlier_sup
+27;Capital;2018;187;outlier_sup
+29;Capital;2018;153;outlier_sup
+30;Capital;2018;76;outlier_sup
+31;Capital;2018;155;outlier_sup
+33;Capital;2018;85;outlier_sup
+34;Capital;2018;225;outlier_sup
+35;Capital;2018;163;outlier_sup
+38;Capital;2018;131;outlier_sup
+39;Capital;2018;274;outlier_sup
+40;Capital;2018;196;outlier_sup
+52;Baixada Fluminense;2018;95;outlier_sup
+53;Baixada Fluminense;2018;77;outlier_sup
+54;Baixada Fluminense;2018;270;outlier_sup
+56;Baixada Fluminense;2018;85;outlier_sup
+57;Baixada Fluminense;2018;101;outlier_sup
+58;Baixada Fluminense;2018;119;outlier_sup
+59;Baixada Fluminense;2018;176;outlier_sup
+60;Baixada Fluminense;2018;94;outlier_sup
+64;Baixada Fluminense;2018;342;outlier_sup
+71;Interior;2018;117;outlier_sup
+72;Grande Niterói;2018;130;outlier_sup
+73;Grande Niterói;2018;165;outlier_sup
+74;Grande Niterói;2018;164;outlier_sup
+75;Grande Niterói;2018;144;outlier_sup
+78;Grande Niterói;2018;78;outlier_sup
+21;Capital;2018;62;outlier_sup
+23;Capital;2018;63;outlier_sup
+25;Capital;2018;81;outlier_sup
+26;Capital;2018;100;outlier_sup
+27;Capital;2018;122;outlier_sup
+29;Capital;2018;122;outlier_sup
+31;Capital;2018;150;outlier_sup
+33;Capital;2018;113;outlier_sup
+34;Capital;2018;243;outlier_sup
+35;Capital;2018;160;outlier_sup
+38;Capital;2018;61;outlier_sup
+39;Capital;2018;243;outlier_sup
+40;Capital;2018;145;outlier_sup
+44;Capital;2018;64;outlier_sup
+52;Baixada Fluminense;2018;76;outlier_sup
+53;Baixada Fluminense;2018;75;outlier_sup
+54;Baixada Fluminense;2018;266;outlier_sup
+56;Baixada Fluminense;2018;75;outlier_sup
+57;Baixada Fluminense;2018;89;outlier_sup
+58;Baixada Fluminense;2018;112;outlier_sup
+59;Baixada Fluminense;2018;169;outlier_sup
+60;Baixada Fluminense;2018;94;outlier_sup
+64;Baixada Fluminense;2018;264;outlier_sup
+71;Interior;2018;150;outlier_sup
+72;Grande Niterói;2018;134;outlier_sup
+73;Grande Niterói;2018;128;outlier_sup
+74;Grande Niterói;2018;168;outlier_sup
+75;Grande Niterói;2018;113;outlier_sup
+78;Grande Niterói;2018;76;outlier_sup
+21;Capital;2018;67;outlier_sup
+24;Capital;2018;68;outlier_sup
+27;Capital;2018;159;outlier_sup
+29;Capital;2018;126;outlier_sup
+30;Capital;2018;65;outlier_sup
+31;Capital;2018;187;outlier_sup
+33;Capital;2018;121;outlier_sup
+34;Capital;2018;150;outlier_sup
+35;Capital;2018;149;outlier_sup
+38;Capital;2018;123;outlier_sup
+39;Capital;2018;394;outlier_sup
+40;Capital;2018;180;outlier_sup
+52;Baixada Fluminense;2018;93;outlier_sup
+53;Baixada Fluminense;2018;76;outlier_sup
+54;Baixada Fluminense;2018;371;outlier_sup
+56;Baixada Fluminense;2018;92;outlier_sup
+57;Baixada Fluminense;2018;104;outlier_sup
+58;Baixada Fluminense;2018;129;outlier_sup
+59;Baixada Fluminense;2018;204;outlier_sup
+60;Baixada Fluminense;2018;112;outlier_sup
+64;Baixada Fluminense;2018;329;outlier_sup
+71;Interior;2018;114;outlier_sup
+72;Grande Niterói;2018;122;outlier_sup
+73;Grande Niterói;2018;172;outlier_sup
+74;Grande Niterói;2018;218;outlier_sup
+75;Grande Niterói;2018;120;outlier_sup
+78;Grande Niterói;2018;79;outlier_sup
+22;Capital;2018;61;outlier_sup
+24;Capital;2018;63;outlier_sup
+25;Capital;2018;70;outlier_sup
+27;Capital;2018;115;outlier_sup
+29;Capital;2018;104;outlier_sup
+30;Capital;2018;99;outlier_sup
+31;Capital;2018;131;outlier_sup
+32;Capital;2018;63;outlier_sup
+33;Capital;2018;85;outlier_sup
+34;Capital;2018;152;outlier_sup
+35;Capital;2018;125;outlier_sup
+38;Capital;2018;79;outlier_sup
+39;Capital;2018;223;outlier_sup
+40;Capital;2018;92;outlier_sup
+52;Baixada Fluminense;2018;94;outlier_sup
+53;Baixada Fluminense;2018;92;outlier_sup
+54;Baixada Fluminense;2018;256;outlier_sup
+56;Baixada Fluminense;2018;80;outlier_sup
+57;Baixada Fluminense;2018;84;outlier_sup
+58;Baixada Fluminense;2018;113;outlier_sup
+59;Baixada Fluminense;2018;165;outlier_sup
+60;Baixada Fluminense;2018;98;outlier_sup
+64;Baixada Fluminense;2018;280;outlier_sup
+71;Interior;2018;165;outlier_sup
+72;Grande Niterói;2018;128;outlier_sup
+73;Grande Niterói;2018;124;outlier_sup
+74;Grande Niterói;2018;169;outlier_sup
+75;Grande Niterói;2018;129;outlier_sup
+78;Grande Niterói;2018;112;outlier_sup
+25;Capital;2018;63;outlier_sup
+27;Capital;2018;116;outlier_sup
+29;Capital;2018;103;outlier_sup
+30;Capital;2018;77;outlier_sup
+31;Capital;2018;125;outlier_sup
+33;Capital;2018;87;outlier_sup
+34;Capital;2018;169;outlier_sup
+35;Capital;2018;91;outlier_sup
+38;Capital;2018;68;outlier_sup
+39;Capital;2018;221;outlier_sup
+40;Capital;2018;98;outlier_sup
+52;Baixada Fluminense;2018;67;outlier_sup
+53;Baixada Fluminense;2018;77;outlier_sup
+54;Baixada Fluminense;2018;217;outlier_sup
+56;Baixada Fluminense;2018;82;outlier_sup
+57;Baixada Fluminense;2018;81;outlier_sup
+58;Baixada Fluminense;2018;158;outlier_sup
+59;Baixada Fluminense;2018;167;outlier_sup
+60;Baixada Fluminense;2018;107;outlier_sup
+64;Baixada Fluminense;2018;226;outlier_sup
+71;Interior;2018;132;outlier_sup
+72;Grande Niterói;2018;143;outlier_sup
+73;Grande Niterói;2018;179;outlier_sup
+74;Grande Niterói;2018;195;outlier_sup
+75;Grande Niterói;2018;141;outlier_sup
+78;Grande Niterói;2018;65;outlier_sup
+25;Capital;2018;66;outlier_sup
+27;Capital;2018;126;outlier_sup
+29;Capital;2018;108;outlier_sup
+30;Capital;2018;95;outlier_sup
+31;Capital;2018;134;outlier_sup
+33;Capital;2018;80;outlier_sup
+34;Capital;2018;197;outlier_sup
+35;Capital;2018;116;outlier_sup
+38;Capital;2018;68;outlier_sup
+39;Capital;2018;219;outlier_sup
+40;Capital;2018;120;outlier_sup
+52;Baixada Fluminense;2018;75;outlier_sup
+54;Baixada Fluminense;2018;174;outlier_sup
+56;Baixada Fluminense;2018;81;outlier_sup
+57;Baixada Fluminense;2018;87;outlier_sup
+58;Baixada Fluminense;2018;123;outlier_sup
+59;Baixada Fluminense;2018;180;outlier_sup
+60;Baixada Fluminense;2018;87;outlier_sup
+64;Baixada Fluminense;2018;216;outlier_sup
+71;Interior;2018;148;outlier_sup
+72;Grande Niterói;2018;126;outlier_sup
+73;Grande Niterói;2018;124;outlier_sup
+74;Grande Niterói;2018;125;outlier_sup
+75;Grande Niterói;2018;89;outlier_sup
+27;Capital;2018;96;outlier_sup
+29;Capital;2018;86;outlier_sup
+31;Capital;2018;70;outlier_sup
+33;Capital;2018;126;outlier_sup
+34;Capital;2018;184;outlier_sup
+35;Capital;2018;91;outlier_sup
+39;Capital;2018;103;outlier_sup
+52;Baixada Fluminense;2018;61;outlier_sup
+54;Baixada Fluminense;2018;170;outlier_sup
+56;Baixada Fluminense;2018;72;outlier_sup
+57;Baixada Fluminense;2018;64;outlier_sup
+58;Baixada Fluminense;2018;111;outlier_sup
+59;Baixada Fluminense;2018;166;outlier_sup
+60;Baixada Fluminense;2018;89;outlier_sup
+64;Baixada Fluminense;2018;154;outlier_sup
+71;Interior;2018;100;outlier_sup
+72;Grande Niterói;2018;113;outlier_sup
+73;Grande Niterói;2018;122;outlier_sup
+74;Grande Niterói;2018;137;outlier_sup
+75;Grande Niterói;2018;107;outlier_sup
+78;Grande Niterói;2018;75;outlier_sup
+27;Capital;2018;124;outlier_sup
+29;Capital;2018;91;outlier_sup
+30;Capital;2018;67;outlier_sup
+31;Capital;2018;67;outlier_sup
+33;Capital;2018;117;outlier_sup
+34;Capital;2018;211;outlier_sup
+35;Capital;2018;104;outlier_sup
+38;Capital;2018;75;outlier_sup
+39;Capital;2018;202;outlier_sup
+40;Capital;2018;84;outlier_sup
+54;Baixada Fluminense;2018;213;outlier_sup
+56;Baixada Fluminense;2018;71;outlier_sup
+57;Baixada Fluminense;2018;64;outlier_sup
+58;Baixada Fluminense;2018;98;outlier_sup
+59;Baixada Fluminense;2018;163;outlier_sup
+60;Baixada Fluminense;2018;78;outlier_sup
+64;Baixada Fluminense;2018;202;outlier_sup
+71;Interior;2018;86;outlier_sup
+72;Grande Niterói;2018;135;outlier_sup
+73;Grande Niterói;2018;143;outlier_sup
+74;Grande Niterói;2018;167;outlier_sup
+75;Grande Niterói;2018;106;outlier_sup
+78;Grande Niterói;2018;78;outlier_sup
+21;Capital;2018;64;outlier_sup
+27;Capital;2018;168;outlier_sup
+29;Capital;2018;112;outlier_sup
+30;Capital;2018;70;outlier_sup
+31;Capital;2018;75;outlier_sup
+33;Capital;2018;137;outlier_sup
+34;Capital;2018;170;outlier_sup
+35;Capital;2018;85;outlier_sup
+38;Capital;2018;88;outlier_sup
+39;Capital;2018;242;outlier_sup
+40;Capital;2018;149;outlier_sup
+52;Baixada Fluminense;2018;73;outlier_sup
+54;Baixada Fluminense;2018;209;outlier_sup
+56;Baixada Fluminense;2018;68;outlier_sup
+57;Baixada Fluminense;2018;70;outlier_sup
+58;Baixada Fluminense;2018;95;outlier_sup
+59;Baixada Fluminense;2018;225;outlier_sup
+60;Baixada Fluminense;2018;76;outlier_sup
+64;Baixada Fluminense;2018;243;outlier_sup
+72;Grande Niterói;2018;97;outlier_sup
+73;Grande Niterói;2018;108;outlier_sup
+74;Grande Niterói;2018;116;outlier_sup
+75;Grande Niterói;2018;109;outlier_sup
+78;Grande Niterói;2018;84;outlier_sup
+27;Capital;2018;153;outlier_sup
+29;Capital;2018;115;outlier_sup
+30;Capital;2018;72;outlier_sup
+31;Capital;2018;114;outlier_sup
+33;Capital;2018;149;outlier_sup
+34;Capital;2018;187;outlier_sup
+35;Capital;2018;107;outlier_sup
+38;Capital;2018;98;outlier_sup
+39;Capital;2018;271;outlier_sup
+40;Capital;2018;150;outlier_sup
+52;Baixada Fluminense;2018;107;outlier_sup
+54;Baixada Fluminense;2018;158;outlier_sup
+56;Baixada Fluminense;2018;79;outlier_sup
+57;Baixada Fluminense;2018;68;outlier_sup
+58;Baixada Fluminense;2018;134;outlier_sup
+59;Baixada Fluminense;2018;218;outlier_sup
+60;Baixada Fluminense;2018;96;outlier_sup
+64;Baixada Fluminense;2018;225;outlier_sup
+72;Grande Niterói;2018;116;outlier_sup
+73;Grande Niterói;2018;87;outlier_sup
+74;Grande Niterói;2018;143;outlier_sup
+75;Grande Niterói;2018;89;outlier_sup
+78;Grande Niterói;2018;86;outlier_sup
+21;Capital;2018;64;outlier_sup
+25;Capital;2018;78;outlier_sup
+27;Capital;2018;198;outlier_sup
+29;Capital;2018;69;outlier_sup
+30;Capital;2018;68;outlier_sup
+31;Capital;2018;123;outlier_sup
+33;Capital;2018;106;outlier_sup
+34;Capital;2018;162;outlier_sup
+35;Capital;2018;100;outlier_sup
+38;Capital;2018;96;outlier_sup
+39;Capital;2018;193;outlier_sup
+40;Capital;2018;117;outlier_sup
+52;Baixada Fluminense;2018;99;outlier_sup
+54;Baixada Fluminense;2018;173;outlier_sup
+56;Baixada Fluminense;2018;66;outlier_sup
+57;Baixada Fluminense;2018;86;outlier_sup
+58;Baixada Fluminense;2018;113;outlier_sup
+59;Baixada Fluminense;2018;247;outlier_sup
+60;Baixada Fluminense;2018;123;outlier_sup
+64;Baixada Fluminense;2018;191;outlier_sup
+72;Grande Niterói;2018;78;outlier_sup
+73;Grande Niterói;2018;69;outlier_sup
+74;Grande Niterói;2018;123;outlier_sup
+75;Grande Niterói;2018;98;outlier_sup
+78;Grande Niterói;2018;89;outlier_sup
+25;Capital;2018;66;outlier_sup
+27;Capital;2018;153;outlier_sup
+29;Capital;2018;91;outlier_sup
+31;Capital;2018;106;outlier_sup
+33;Capital;2018;110;outlier_sup
+34;Capital;2018;126;outlier_sup
+35;Capital;2018;128;outlier_sup
+38;Capital;2018;109;outlier_sup
+39;Capital;2018;145;outlier_sup
+40;Capital;2018;86;outlier_sup
+52;Baixada Fluminense;2018;61;outlier_sup
+54;Baixada Fluminense;2018;220;outlier_sup
+56;Baixada Fluminense;2018;70;outlier_sup
+58;Baixada Fluminense;2018;116;outlier_sup
+59;Baixada Fluminense;2018;246;outlier_sup
+60;Baixada Fluminense;2018;142;outlier_sup
+64;Baixada Fluminense;2018;136;outlier_sup
+71;Interior;2018;71;outlier_sup
+72;Grande Niterói;2018;82;outlier_sup
+73;Grande Niterói;2018;78;outlier_sup
+74;Grande Niterói;2018;128;outlier_sup
+75;Grande Niterói;2018;103;outlier_sup
+78;Grande Niterói;2018;79;outlier_sup
+21;Capital;2019;75;outlier_sup
+27;Capital;2019;186;outlier_sup
+29;Capital;2019;102;outlier_sup
+31;Capital;2019;100;outlier_sup
+33;Capital;2019;124;outlier_sup
+34;Capital;2019;152;outlier_sup
+35;Capital;2019;115;outlier_sup
+38;Capital;2019;91;outlier_sup
+39;Capital;2019;105;outlier_sup
+40;Capital;2019;131;outlier_sup
+52;Baixada Fluminense;2019;78;outlier_sup
+54;Baixada Fluminense;2019;166;outlier_sup
+58;Baixada Fluminense;2019;113;outlier_sup
+59;Baixada Fluminense;2019;218;outlier_sup
+60;Baixada Fluminense;2019;119;outlier_sup
+64;Baixada Fluminense;2019;153;outlier_sup
+71;Interior;2019;70;outlier_sup
+72;Grande Niterói;2019;107;outlier_sup
+73;Grande Niterói;2019;117;outlier_sup
+74;Grande Niterói;2019;137;outlier_sup
+75;Grande Niterói;2019;118;outlier_sup
+78;Grande Niterói;2019;75;outlier_sup
+21;Capital;2019;61;outlier_sup
+27;Capital;2019;193;outlier_sup
+29;Capital;2019;83;outlier_sup
+31;Capital;2019;96;outlier_sup
+33;Capital;2019;107;outlier_sup
+34;Capital;2019;171;outlier_sup
+35;Capital;2019;91;outlier_sup
+38;Capital;2019;86;outlier_sup
+39;Capital;2019;150;outlier_sup
+40;Capital;2019;107;outlier_sup
+44;Capital;2019;67;outlier_sup
+54;Baixada Fluminense;2019;199;outlier_sup
+58;Baixada Fluminense;2019;93;outlier_sup
+59;Baixada Fluminense;2019;192;outlier_sup
+60;Baixada Fluminense;2019;100;outlier_sup
+64;Baixada Fluminense;2019;157;outlier_sup
+71;Interior;2019;72;outlier_sup
+72;Grande Niterói;2019;92;outlier_sup
+73;Grande Niterói;2019;104;outlier_sup
+74;Grande Niterói;2019;118;outlier_sup
+75;Grande Niterói;2019;93;outlier_sup
+78;Grande Niterói;2019;62;outlier_sup
+27;Capital;2019;164;outlier_sup
+29;Capital;2019;67;outlier_sup
+31;Capital;2019;81;outlier_sup
+33;Capital;2019;137;outlier_sup
+34;Capital;2019;196;outlier_sup
+35;Capital;2019;93;outlier_sup
+38;Capital;2019;104;outlier_sup
+39;Capital;2019;196;outlier_sup
+40;Capital;2019;114;outlier_sup
+54;Baixada Fluminense;2019;203;outlier_sup
+56;Baixada Fluminense;2019;65;outlier_sup
+57;Baixada Fluminense;2019;69;outlier_sup
+58;Baixada Fluminense;2019;124;outlier_sup
+59;Baixada Fluminense;2019;189;outlier_sup
+60;Baixada Fluminense;2019;88;outlier_sup
+64;Baixada Fluminense;2019;179;outlier_sup
+72;Grande Niterói;2019;117;outlier_sup
+73;Grande Niterói;2019;99;outlier_sup
+74;Grande Niterói;2019;125;outlier_sup
+75;Grande Niterói;2019;86;outlier_sup
+78;Grande Niterói;2019;66;outlier_sup
+27;Capital;2019;139;outlier_sup
+29;Capital;2019;69;outlier_sup
+31;Capital;2019;73;outlier_sup
+33;Capital;2019;96;outlier_sup
+34;Capital;2019;162;outlier_sup
+35;Capital;2019;88;outlier_sup
+38;Capital;2019;68;outlier_sup
+39;Capital;2019;183;outlier_sup
+40;Capital;2019;124;outlier_sup
+52;Baixada Fluminense;2019;67;outlier_sup
+54;Baixada Fluminense;2019;285;outlier_sup
+56;Baixada Fluminense;2019;71;outlier_sup
+58;Baixada Fluminense;2019;92;outlier_sup
+59;Baixada Fluminense;2019;216;outlier_sup
+60;Baixada Fluminense;2019;74;outlier_sup
+64;Baixada Fluminense;2019;225;outlier_sup
+71;Interior;2019;61;outlier_sup
+72;Grande Niterói;2019;114;outlier_sup
+73;Grande Niterói;2019;111;outlier_sup
+74;Grande Niterói;2019;134;outlier_sup
+75;Grande Niterói;2019;102;outlier_sup
+78;Grande Niterói;2019;82;outlier_sup
+21;Capital;2019;62;outlier_sup
+27;Capital;2019;144;outlier_sup
+29;Capital;2019;79;outlier_sup
+31;Capital;2019;100;outlier_sup
+33;Capital;2019;97;outlier_sup
+34;Capital;2019;112;outlier_sup
+35;Capital;2019;82;outlier_sup
+38;Capital;2019;62;outlier_sup
+39;Capital;2019;175;outlier_sup
+40;Capital;2019;118;outlier_sup
+52;Baixada Fluminense;2019;73;outlier_sup
+54;Baixada Fluminense;2019;272;outlier_sup
+56;Baixada Fluminense;2019;79;outlier_sup
+58;Baixada Fluminense;2019;94;outlier_sup
+59;Baixada Fluminense;2019;167;outlier_sup
+64;Baixada Fluminense;2019;216;outlier_sup
+71;Interior;2019;78;outlier_sup
+72;Grande Niterói;2019;107;outlier_sup
+73;Grande Niterói;2019;87;outlier_sup
+74;Grande Niterói;2019;152;outlier_sup
+75;Grande Niterói;2019;112;outlier_sup
+27;Capital;2019;105;outlier_sup
+29;Capital;2019;64;outlier_sup
+31;Capital;2019;100;outlier_sup
+33;Capital;2019;68;outlier_sup
+34;Capital;2019;112;outlier_sup
+35;Capital;2019;63;outlier_sup
+39;Capital;2019;133;outlier_sup
+40;Capital;2019;72;outlier_sup
+52;Baixada Fluminense;2019;65;outlier_sup
+54;Baixada Fluminense;2019;218;outlier_sup
+56;Baixada Fluminense;2019;68;outlier_sup
+57;Baixada Fluminense;2019;77;outlier_sup
+58;Baixada Fluminense;2019;66;outlier_sup
+59;Baixada Fluminense;2019;179;outlier_sup
+60;Baixada Fluminense;2019;74;outlier_sup
+64;Baixada Fluminense;2019;166;outlier_sup
+72;Grande Niterói;2019;103;outlier_sup
+73;Grande Niterói;2019;95;outlier_sup
+74;Grande Niterói;2019;133;outlier_sup
+75;Grande Niterói;2019;92;outlier_sup
+27;Capital;2019;85;outlier_sup
+31;Capital;2019;110;outlier_sup
+33;Capital;2019;101;outlier_sup
+34;Capital;2019;187;outlier_sup
+35;Capital;2019;128;outlier_sup
+39;Capital;2019;141;outlier_sup
+40;Capital;2019;74;outlier_sup
+52;Baixada Fluminense;2019;69;outlier_sup
+54;Baixada Fluminense;2019;215;outlier_sup
+58;Baixada Fluminense;2019;66;outlier_sup
+59;Baixada Fluminense;2019;157;outlier_sup
+60;Baixada Fluminense;2019;81;outlier_sup
+64;Baixada Fluminense;2019;196;outlier_sup
+71;Interior;2019;71;outlier_sup
+72;Grande Niterói;2019;94;outlier_sup
+73;Grande Niterói;2019;84;outlier_sup
+74;Grande Niterói;2019;152;outlier_sup
+75;Grande Niterói;2019;81;outlier_sup
+27;Capital;2019;97;outlier_sup
+29;Capital;2019;62;outlier_sup
+31;Capital;2019;86;outlier_sup
+33;Capital;2019;97;outlier_sup
+34;Capital;2019;128;outlier_sup
+35;Capital;2019;100;outlier_sup
+39;Capital;2019;130;outlier_sup
+40;Capital;2019;71;outlier_sup
+54;Baixada Fluminense;2019;278;outlier_sup
+57;Baixada Fluminense;2019;67;outlier_sup
+58;Baixada Fluminense;2019;95;outlier_sup
+59;Baixada Fluminense;2019;147;outlier_sup
+60;Baixada Fluminense;2019;102;outlier_sup
+64;Baixada Fluminense;2019;204;outlier_sup
+72;Grande Niterói;2019;82;outlier_sup
+73;Grande Niterói;2019;81;outlier_sup
+74;Grande Niterói;2019;123;outlier_sup
+75;Grande Niterói;2019;63;outlier_sup
+78;Grande Niterói;2019;67;outlier_sup
+27;Capital;2019;62;outlier_sup
+31;Capital;2019;68;outlier_sup
+33;Capital;2019;82;outlier_sup
+34;Capital;2019;91;outlier_sup
+35;Capital;2019;68;outlier_sup
+39;Capital;2019;113;outlier_sup
+54;Baixada Fluminense;2019;132;outlier_sup
+58;Baixada Fluminense;2019;88;outlier_sup
+59;Baixada Fluminense;2019;147;outlier_sup
+60;Baixada Fluminense;2019;67;outlier_sup
+64;Baixada Fluminense;2019;176;outlier_sup
+72;Grande Niterói;2019;63;outlier_sup
+73;Grande Niterói;2019;68;outlier_sup
+74;Grande Niterói;2019;138;outlier_sup
+75;Grande Niterói;2019;66;outlier_sup
+21;Capital;2019;62;outlier_sup
+27;Capital;2019;64;outlier_sup
+31;Capital;2019;96;outlier_sup
+33;Capital;2019;123;outlier_sup
+34;Capital;2019;108;outlier_sup
+35;Capital;2019;93;outlier_sup
+38;Capital;2019;69;outlier_sup
+39;Capital;2019;109;outlier_sup
+54;Baixada Fluminense;2019;147;outlier_sup
+57;Baixada Fluminense;2019;70;outlier_sup
+58;Baixada Fluminense;2019;88;outlier_sup
+59;Baixada Fluminense;2019;152;outlier_sup
+60;Baixada Fluminense;2019;95;outlier_sup
+64;Baixada Fluminense;2019;205;outlier_sup
+72;Grande Niterói;2019;77;outlier_sup
+73;Grande Niterói;2019;70;outlier_sup
+74;Grande Niterói;2019;126;outlier_sup
+75;Grande Niterói;2019;74;outlier_sup
+27;Capital;2019;73;outlier_sup
+29;Capital;2019;65;outlier_sup
+31;Capital;2019;105;outlier_sup
+33;Capital;2019;95;outlier_sup
+34;Capital;2019;119;outlier_sup
+35;Capital;2019;95;outlier_sup
+39;Capital;2019;149;outlier_sup
+40;Capital;2019;61;outlier_sup
+54;Baixada Fluminense;2019;192;outlier_sup
+56;Baixada Fluminense;2019;70;outlier_sup
+57;Baixada Fluminense;2019;77;outlier_sup
+58;Baixada Fluminense;2019;83;outlier_sup
+59;Baixada Fluminense;2019;120;outlier_sup
+60;Baixada Fluminense;2019;76;outlier_sup
+64;Baixada Fluminense;2019;197;outlier_sup
+72;Grande Niterói;2019;71;outlier_sup
+74;Grande Niterói;2019;127;outlier_sup
+75;Grande Niterói;2019;64;outlier_sup
+27;Capital;2019;70;outlier_sup
+31;Capital;2019;100;outlier_sup
+33;Capital;2019;99;outlier_sup
+34;Capital;2019;114;outlier_sup
+35;Capital;2019;99;outlier_sup
+39;Capital;2019;166;outlier_sup
+40;Capital;2019;61;outlier_sup
+53;Baixada Fluminense;2019;61;outlier_sup
+54;Baixada Fluminense;2019;301;outlier_sup
+56;Baixada Fluminense;2019;62;outlier_sup
+57;Baixada Fluminense;2019;70;outlier_sup
+58;Baixada Fluminense;2019;72;outlier_sup
+59;Baixada Fluminense;2019;136;outlier_sup
+60;Baixada Fluminense;2019;91;outlier_sup
+64;Baixada Fluminense;2019;226;outlier_sup
+74;Grande Niterói;2019;100;outlier_sup
+21;Capital;2020;65;outlier_sup
+27;Capital;2020;86;outlier_sup
+31;Capital;2020;121;outlier_sup
+33;Capital;2020;147;outlier_sup
+34;Capital;2020;136;outlier_sup
+35;Capital;2020;75;outlier_sup
+39;Capital;2020;203;outlier_sup
+40;Capital;2020;69;outlier_sup
+54;Baixada Fluminense;2020;303;outlier_sup
+58;Baixada Fluminense;2020;74;outlier_sup
+59;Baixada Fluminense;2020;158;outlier_sup
+60;Baixada Fluminense;2020;88;outlier_sup
+62;Baixada Fluminense;2020;64;outlier_sup
+64;Baixada Fluminense;2020;228;outlier_sup
+74;Grande Niterói;2020;97;outlier_sup
+75;Grande Niterói;2020;64;outlier_sup
+21;Capital;2020;73;outlier_sup
+27;Capital;2020;88;outlier_sup
+31;Capital;2020;113;outlier_sup
+33;Capital;2020;151;outlier_sup
+34;Capital;2020;106;outlier_sup
+35;Capital;2020;76;outlier_sup
+39;Capital;2020;231;outlier_sup
+40;Capital;2020;76;outlier_sup
+54;Baixada Fluminense;2020;260;outlier_sup
+58;Baixada Fluminense;2020;78;outlier_sup
+59;Baixada Fluminense;2020;152;outlier_sup
+60;Baixada Fluminense;2020;92;outlier_sup
+64;Baixada Fluminense;2020;207;outlier_sup
+74;Grande Niterói;2020;80;outlier_sup
+27;Capital;2020;81;outlier_sup
+31;Capital;2020;79;outlier_sup
+33;Capital;2020;130;outlier_sup
+34;Capital;2020;111;outlier_sup
+35;Capital;2020;94;outlier_sup
+39;Capital;2020;129;outlier_sup
+54;Baixada Fluminense;2020;143;outlier_sup
+58;Baixada Fluminense;2020;100;outlier_sup
+59;Baixada Fluminense;2020;90;outlier_sup
+60;Baixada Fluminense;2020;82;outlier_sup
+64;Baixada Fluminense;2020;108;outlier_sup
+74;Grande Niterói;2020;82;outlier_sup
+33;Capital;2020;118;outlier_sup
+34;Capital;2020;117;outlier_sup
+35;Capital;2020;75;outlier_sup
+39;Capital;2020;105;outlier_sup
+54;Baixada Fluminense;2020;90;outlier_sup
+59;Baixada Fluminense;2020;83;outlier_sup
+64;Baixada Fluminense;2020;80;outlier_sup
+74;Grande Niterói;2020;62;outlier_sup
+33;Capital;2020;95;outlier_sup
+34;Capital;2020;72;outlier_sup
+39;Capital;2020;86;outlier_sup
+54;Baixada Fluminense;2020;98;outlier_sup
+59;Baixada Fluminense;2020;70;outlier_sup
+64;Baixada Fluminense;2020;79;outlier_sup
+33;Capital;2020;72;outlier_sup
+34;Capital;2020;84;outlier_sup
+35;Capital;2020;61;outlier_sup
+39;Capital;2020;87;outlier_sup
+54;Baixada Fluminense;2020;131;outlier_sup
+59;Baixada Fluminense;2020;93;outlier_sup
+60;Baixada Fluminense;2020;74;outlier_sup
+64;Baixada Fluminense;2020;80;outlier_sup
+33;Capital;2020;66;outlier_sup
+34;Capital;2020;78;outlier_sup
+39;Capital;2020;74;outlier_sup
+54;Baixada Fluminense;2020;166;outlier_sup
+59;Baixada Fluminense;2020;70;outlier_sup
+60;Baixada Fluminense;2020;85;outlier_sup
+64;Baixada Fluminense;2020;100;outlier_sup
+34;Capital;2020;84;outlier_sup
+35;Capital;2020;72;outlier_sup
+54;Baixada Fluminense;2020;199;outlier_sup
+59;Baixada Fluminense;2020;79;outlier_sup
+60;Baixada Fluminense;2020;99;outlier_sup
+64;Baixada Fluminense;2020;96;outlier_sup
+33;Capital;2020;66;outlier_sup
+34;Capital;2020;72;outlier_sup
+39;Capital;2020;66;outlier_sup
+54;Baixada Fluminense;2020;140;outlier_sup
+59;Baixada Fluminense;2020;77;outlier_sup
+60;Baixada Fluminense;2020;81;outlier_sup
+64;Baixada Fluminense;2020;97;outlier_sup
+74;Grande Niterói;2020;70;outlier_sup
+31;Capital;2020;76;outlier_sup
+33;Capital;2020;70;outlier_sup
+34;Capital;2020;75;outlier_sup
+54;Baixada Fluminense;2020;147;outlier_sup
+59;Baixada Fluminense;2020;100;outlier_sup
+60;Baixada Fluminense;2020;67;outlier_sup
+64;Baixada Fluminense;2020;81;outlier_sup
+74;Grande Niterói;2020;72;outlier_sup
+31;Capital;2020;85;outlier_sup
+33;Capital;2020;87;outlier_sup
+34;Capital;2020;116;outlier_sup
+39;Capital;2020;69;outlier_sup
+54;Baixada Fluminense;2020;131;outlier_sup
+59;Baixada Fluminense;2020;75;outlier_sup
+60;Baixada Fluminense;2020;85;outlier_sup
+64;Baixada Fluminense;2020;89;outlier_sup
+74;Grande Niterói;2020;63;outlier_sup
+31;Capital;2020;110;outlier_sup
+33;Capital;2020;83;outlier_sup
+34;Capital;2020;118;outlier_sup
+35;Capital;2020;74;outlier_sup
+39;Capital;2020;74;outlier_sup
+54;Baixada Fluminense;2020;148;outlier_sup
+58;Baixada Fluminense;2020;65;outlier_sup
+59;Baixada Fluminense;2020;98;outlier_sup
+60;Baixada Fluminense;2020;114;outlier_sup
+64;Baixada Fluminense;2020;126;outlier_sup
+73;Grande Niterói;2020;64;outlier_sup
+74;Grande Niterói;2020;71;outlier_sup
+31;Capital;2021;90;outlier_sup
+33;Capital;2021;77;outlier_sup
+34;Capital;2021;75;outlier_sup
+35;Capital;2021;69;outlier_sup
+39;Capital;2021;98;outlier_sup
+54;Baixada Fluminense;2021;116;outlier_sup
+59;Baixada Fluminense;2021;127;outlier_sup
+60;Baixada Fluminense;2021;104;outlier_sup
+64;Baixada Fluminense;2021;153;outlier_sup
+72;Grande Niterói;2021;64;outlier_sup
+74;Grande Niterói;2021;83;outlier_sup
+75;Grande Niterói;2021;71;outlier_sup
+31;Capital;2021;88;outlier_sup
+33;Capital;2021;76;outlier_sup
+34;Capital;2021;78;outlier_sup
+35;Capital;2021;64;outlier_sup
+39;Capital;2021;99;outlier_sup
+54;Baixada Fluminense;2021;118;outlier_sup
+59;Baixada Fluminense;2021;65;outlier_sup
+60;Baixada Fluminense;2021;75;outlier_sup
+64;Baixada Fluminense;2021;119;outlier_sup
+72;Grande Niterói;2021;67;outlier_sup
+74;Grande Niterói;2021;76;outlier_sup
+31;Capital;2021;82;outlier_sup
+33;Capital;2021;87;outlier_sup
+34;Capital;2021;95;outlier_sup
+35;Capital;2021;75;outlier_sup
+39;Capital;2021;120;outlier_sup
+54;Baixada Fluminense;2021;158;outlier_sup
+58;Baixada Fluminense;2021;62;outlier_sup
+59;Baixada Fluminense;2021;105;outlier_sup
+60;Baixada Fluminense;2021;75;outlier_sup
+64;Baixada Fluminense;2021;140;outlier_sup
+74;Grande Niterói;2021;90;outlier_sup
+33;Capital;2021;92;outlier_sup
+34;Capital;2021;98;outlier_sup
+35;Capital;2021;88;outlier_sup
+39;Capital;2021;110;outlier_sup
+54;Baixada Fluminense;2021;89;outlier_sup
+59;Baixada Fluminense;2021;88;outlier_sup
+60;Baixada Fluminense;2021;84;outlier_sup
+64;Baixada Fluminense;2021;99;outlier_sup
+74;Grande Niterói;2021;92;outlier_sup
+34;Capital;2021;116;outlier_sup
+35;Capital;2021;93;outlier_sup
+39;Capital;2021;111;outlier_sup
+54;Baixada Fluminense;2021;118;outlier_sup
+59;Baixada Fluminense;2021;88;outlier_sup
+60;Baixada Fluminense;2021;101;outlier_sup
+64;Baixada Fluminense;2021;91;outlier_sup
+74;Grande Niterói;2021;84;outlier_sup
+34;Capital;2021;95;outlier_sup
+39;Capital;2021;90;outlier_sup
+54;Baixada Fluminense;2021;127;outlier_sup
+59;Baixada Fluminense;2021;71;outlier_sup
+60;Baixada Fluminense;2021;62;outlier_sup
+64;Baixada Fluminense;2021;82;outlier_sup
+72;Grande Niterói;2021;63;outlier_sup
+73;Grande Niterói;2021;76;outlier_sup
+74;Grande Niterói;2021;69;outlier_sup
+29;Capital;2021;61;outlier_sup
+34;Capital;2021;100;outlier_sup
+35;Capital;2021;67;outlier_sup
+39;Capital;2021;123;outlier_sup
+54;Baixada Fluminense;2021;100;outlier_sup
+59;Baixada Fluminense;2021;74;outlier_sup
+60;Baixada Fluminense;2021;87;outlier_sup
+64;Baixada Fluminense;2021;112;outlier_sup
+73;Grande Niterói;2021;102;outlier_sup
+74;Grande Niterói;2021;75;outlier_sup
+29;Capital;2021;64;outlier_sup
+34;Capital;2021;107;outlier_sup
+35;Capital;2021;88;outlier_sup
+39;Capital;2021;108;outlier_sup
+54;Baixada Fluminense;2021;125;outlier_sup
+59;Baixada Fluminense;2021;89;outlier_sup
+60;Baixada Fluminense;2021;65;outlier_sup
+64;Baixada Fluminense;2021;109;outlier_sup
+72;Grande Niterói;2021;63;outlier_sup
+73;Grande Niterói;2021;93;outlier_sup
+74;Grande Niterói;2021;73;outlier_sup
+31;Capital;2021;61;outlier_sup
+34;Capital;2021;134;outlier_sup
+35;Capital;2021;88;outlier_sup
+39;Capital;2021;61;outlier_sup
+54;Baixada Fluminense;2021;137;outlier_sup
+59;Baixada Fluminense;2021;99;outlier_sup
+60;Baixada Fluminense;2021;94;outlier_sup
+64;Baixada Fluminense;2021;94;outlier_sup
+74;Grande Niterói;2021;66;outlier_sup
+33;Capital;2021;71;outlier_sup
+34;Capital;2021;138;outlier_sup
+35;Capital;2021;73;outlier_sup
+39;Capital;2021;69;outlier_sup
+54;Baixada Fluminense;2021;144;outlier_sup
+59;Baixada Fluminense;2021;108;outlier_sup
+60;Baixada Fluminense;2021;100;outlier_sup
+64;Baixada Fluminense;2021;89;outlier_sup
+34;Capital;2021;85;outlier_sup
+35;Capital;2021;81;outlier_sup
+39;Capital;2021;64;outlier_sup
+54;Baixada Fluminense;2021;97;outlier_sup
+59;Baixada Fluminense;2021;87;outlier_sup
+60;Baixada Fluminense;2021;84;outlier_sup
+64;Baixada Fluminense;2021;95;outlier_sup
+34;Capital;2021;66;outlier_sup
+38;Capital;2021;61;outlier_sup
+39;Capital;2021;80;outlier_sup
+54;Baixada Fluminense;2021;130;outlier_sup
+59;Baixada Fluminense;2021;68;outlier_sup
+60;Baixada Fluminense;2021;96;outlier_sup
+64;Baixada Fluminense;2021;70;outlier_sup
+33;Capital;2022;67;outlier_sup
+34;Capital;2022;102;outlier_sup
+38;Capital;2022;66;outlier_sup
+39;Capital;2022;81;outlier_sup
+54;Baixada Fluminense;2022;121;outlier_sup
+59;Baixada Fluminense;2022;110;outlier_sup
+60;Baixada Fluminense;2022;112;outlier_sup
+64;Baixada Fluminense;2022;82;outlier_sup
+33;Capital;2022;78;outlier_sup
+34;Capital;2022;88;outlier_sup
+35;Capital;2022;61;outlier_sup
+39;Capital;2022;70;outlier_sup
+54;Baixada Fluminense;2022;105;outlier_sup
+59;Baixada Fluminense;2022;83;outlier_sup
+60;Baixada Fluminense;2022;94;outlier_sup
+64;Baixada Fluminense;2022;80;outlier_sup
+21;Capital;2022;82;outlier_sup
+27;Capital;2022;70;outlier_sup
+33;Capital;2022;70;outlier_sup
+34;Capital;2022;127;outlier_sup
+35;Capital;2022;83;outlier_sup
+54;Baixada Fluminense;2022;156;outlier_sup
+59;Baixada Fluminense;2022;121;outlier_sup
+60;Baixada Fluminense;2022;112;outlier_sup
+64;Baixada Fluminense;2022;103;outlier_sup
+21;Capital;2022;73;outlier_sup
+27;Capital;2022;70;outlier_sup
+33;Capital;2022;74;outlier_sup
+34;Capital;2022;99;outlier_sup
+35;Capital;2022;85;outlier_sup
+54;Baixada Fluminense;2022;125;outlier_sup
+59;Baixada Fluminense;2022;84;outlier_sup
+60;Baixada Fluminense;2022;96;outlier_sup
+64;Baixada Fluminense;2022;91;outlier_sup
+21;Capital;2022;80;outlier_sup
+27;Capital;2022;73;outlier_sup
+29;Capital;2022;64;outlier_sup
+33;Capital;2022;70;outlier_sup
+34;Capital;2022;77;outlier_sup
+35;Capital;2022;70;outlier_sup
+38;Capital;2022;65;outlier_sup
+54;Baixada Fluminense;2022;109;outlier_sup
+59;Baixada Fluminense;2022;116;outlier_sup
+60;Baixada Fluminense;2022;67;outlier_sup
+64;Baixada Fluminense;2022;88;outlier_sup
+27;Capital;2022;75;outlier_sup
+29;Capital;2022;96;outlier_sup
+54;Baixada Fluminense;2022;81;outlier_sup
+59;Baixada Fluminense;2022;98;outlier_sup
+60;Baixada Fluminense;2022;73;outlier_sup
+64;Baixada Fluminense;2022;92;outlier_sup
+27;Capital;2022;76;outlier_sup
+29;Capital;2022;79;outlier_sup
+54;Baixada Fluminense;2022;103;outlier_sup
+59;Baixada Fluminense;2022;114;outlier_sup
+60;Baixada Fluminense;2022;119;outlier_sup
+64;Baixada Fluminense;2022;88;outlier_sup
+27;Capital;2022;84;outlier_sup
+29;Capital;2022;85;outlier_sup
+34;Capital;2022;75;outlier_sup
+54;Baixada Fluminense;2022;90;outlier_sup
+59;Baixada Fluminense;2022;99;outlier_sup
+60;Baixada Fluminense;2022;110;outlier_sup
+64;Baixada Fluminense;2022;100;outlier_sup
+21;Capital;2022;64;outlier_sup
+27;Capital;2022;86;outlier_sup
+29;Capital;2022;66;outlier_sup
+31;Capital;2022;67;outlier_sup
+34;Capital;2022;76;outlier_sup
+35;Capital;2022;62;outlier_sup
+44;Capital;2022;80;outlier_sup
+54;Baixada Fluminense;2022;98;outlier_sup
+59;Baixada Fluminense;2022;102;outlier_sup
+60;Baixada Fluminense;2022;100;outlier_sup
+64;Baixada Fluminense;2022;114;outlier_sup
+73;Grande Niterói;2022;61;outlier_sup
+21;Capital;2022;69;outlier_sup
+26;Capital;2022;70;outlier_sup
+27;Capital;2022;70;outlier_sup
+29;Capital;2022;111;outlier_sup
+31;Capital;2022;76;outlier_sup
+34;Capital;2022;86;outlier_sup
+38;Capital;2022;64;outlier_sup
+39;Capital;2022;93;outlier_sup
+54;Baixada Fluminense;2022;94;outlier_sup
+59;Baixada Fluminense;2022;147;outlier_sup
+60;Baixada Fluminense;2022;115;outlier_sup
+64;Baixada Fluminense;2022;120;outlier_sup
+74;Grande Niterói;2022;70;outlier_sup
+21;Capital;2022;79;outlier_sup
+27;Capital;2022;119;outlier_sup
+29;Capital;2022;111;outlier_sup
+31;Capital;2022;63;outlier_sup
+38;Capital;2022;80;outlier_sup
+39;Capital;2022;82;outlier_sup
+40;Capital;2022;80;outlier_sup
+44;Capital;2022;75;outlier_sup
+54;Baixada Fluminense;2022;87;outlier_sup
+59;Baixada Fluminense;2022;157;outlier_sup
+60;Baixada Fluminense;2022;91;outlier_sup
+64;Baixada Fluminense;2022;110;outlier_sup
+73;Grande Niterói;2022;63;outlier_sup
+74;Grande Niterói;2022;89;outlier_sup
+27;Capital;2022;112;outlier_sup
+29;Capital;2022;140;outlier_sup
+39;Capital;2022;89;outlier_sup
+54;Baixada Fluminense;2022;111;outlier_sup
+59;Baixada Fluminense;2022;146;outlier_sup
+60;Baixada Fluminense;2022;96;outlier_sup
+64;Baixada Fluminense;2022;101;outlier_sup
+21;Capital;2023;69;outlier_sup
+27;Capital;2023;99;outlier_sup
+29;Capital;2023;110;outlier_sup
+31;Capital;2023;61;outlier_sup
+34;Capital;2023;72;outlier_sup
+40;Capital;2023;66;outlier_sup
+54;Baixada Fluminense;2023;91;outlier_sup
+59;Baixada Fluminense;2023;99;outlier_sup
+60;Baixada Fluminense;2023;63;outlier_sup
+64;Baixada Fluminense;2023;87;outlier_sup
+27;Capital;2023;102;outlier_sup
+29;Capital;2023;74;outlier_sup
+54;Baixada Fluminense;2023;82;outlier_sup
+59;Baixada Fluminense;2023;115;outlier_sup
+64;Baixada Fluminense;2023;64;outlier_sup
+21;Capital;2023;77;outlier_sup
+27;Capital;2023;111;outlier_sup
+29;Capital;2023;90;outlier_sup
+31;Capital;2023;69;outlier_sup
+33;Capital;2023;66;outlier_sup
+34;Capital;2023;80;outlier_sup
+39;Capital;2023;103;outlier_sup
+40;Capital;2023;81;outlier_sup
+54;Baixada Fluminense;2023;97;outlier_sup
+58;Baixada Fluminense;2023;74;outlier_sup
+59;Baixada Fluminense;2023;186;outlier_sup
+60;Baixada Fluminense;2023;90;outlier_sup
+64;Baixada Fluminense;2023;112;outlier_sup
+22;Capital;2023;62;outlier_sup
+24;Capital;2023;78;outlier_sup
+27;Capital;2023;139;outlier_sup
+28;Capital;2023;61;outlier_sup
+29;Capital;2023;109;outlier_sup
+34;Capital;2023;61;outlier_sup
+38;Capital;2023;73;outlier_sup
+54;Baixada Fluminense;2023;117;outlier_sup
+59;Baixada Fluminense;2023;141;outlier_sup
+60;Baixada Fluminense;2023;102;outlier_sup
+64;Baixada Fluminense;2023;102;outlier_sup
+21;Capital;2023;70;outlier_sup
+27;Capital;2023;115;outlier_sup
+29;Capital;2023;99;outlier_sup
+34;Capital;2023;75;outlier_sup
+39;Capital;2023;73;outlier_sup
+44;Capital;2023;96;outlier_sup
+54;Baixada Fluminense;2023;128;outlier_sup
+59;Baixada Fluminense;2023;183;outlier_sup
+60;Baixada Fluminense;2023;112;outlier_sup
+64;Baixada Fluminense;2023;140;outlier_sup
+27;Capital;2023;63;outlier_sup
+39;Capital;2023;64;outlier_sup
+44;Capital;2023;63;outlier_sup
+54;Baixada Fluminense;2023;126;outlier_sup
+59;Baixada Fluminense;2023;128;outlier_sup
+60;Baixada Fluminense;2023;78;outlier_sup
+64;Baixada Fluminense;2023;109;outlier_sup
+34;Capital;2023;71;outlier_sup
+39;Capital;2023;67;outlier_sup
+54;Baixada Fluminense;2023;105;outlier_sup
+59;Baixada Fluminense;2023;71;outlier_sup
+60;Baixada Fluminense;2023;68;outlier_sup
+64;Baixada Fluminense;2023;64;outlier_sup
+39;Capital;2023;73;outlier_sup
+54;Baixada Fluminense;2023;98;outlier_sup
+59;Baixada Fluminense;2023;86;outlier_sup
+60;Baixada Fluminense;2023;70;outlier_sup
+64;Baixada Fluminense;2023;71;outlier_sup
+27;Capital;2023;75;outlier_sup
+35;Capital;2023;64;outlier_sup
+54;Baixada Fluminense;2023;137;outlier_sup
+59;Baixada Fluminense;2023;87;outlier_sup
+60;Baixada Fluminense;2023;81;outlier_sup
+64;Baixada Fluminense;2023;98;outlier_sup
+27;Capital;2023;86;outlier_sup
+31;Capital;2023;61;outlier_sup
+35;Capital;2023;67;outlier_sup
+38;Capital;2023;64;outlier_sup
+39;Capital;2023;86;outlier_sup
+54;Baixada Fluminense;2023;133;outlier_sup
+59;Baixada Fluminense;2023;160;outlier_sup
+60;Baixada Fluminense;2023;107;outlier_sup
+64;Baixada Fluminense;2023;113;outlier_sup
+21;Capital;2023;77;outlier_sup
+24;Capital;2023;78;outlier_sup
+27;Capital;2023;87;outlier_sup
+38;Capital;2023;61;outlier_sup
+39;Capital;2023;68;outlier_sup
+54;Baixada Fluminense;2023;137;outlier_sup
+59;Baixada Fluminense;2023;154;outlier_sup
+60;Baixada Fluminense;2023;151;outlier_sup
+64;Baixada Fluminense;2023;117;outlier_sup
+27;Capital;2023;70;outlier_sup
+34;Capital;2023;70;outlier_sup
+35;Capital;2023;66;outlier_sup
+39;Capital;2023;64;outlier_sup
+54;Baixada Fluminense;2023;94;outlier_sup
+60;Baixada Fluminense;2023;111;outlier_sup
+21;Capital;2024;76;outlier_sup
+27;Capital;2024;88;outlier_sup
+30;Capital;2024;61;outlier_sup
+33;Capital;2024;63;outlier_sup
+34;Capital;2024;68;outlier_sup
+54;Baixada Fluminense;2024;97;outlier_sup
+59;Baixada Fluminense;2024;82;outlier_sup
+60;Baixada Fluminense;2024;118;outlier_sup
+64;Baixada Fluminense;2024;63;outlier_sup
+21;Capital;2024;88;outlier_sup
+27;Capital;2024;92;outlier_sup
+29;Capital;2024;62;outlier_sup
+30;Capital;2024;72;outlier_sup
+39;Capital;2024;75;outlier_sup
+52;Baixada Fluminense;2024;66;outlier_sup
+54;Baixada Fluminense;2024;101;outlier_sup
+58;Baixada Fluminense;2024;61;outlier_sup
+59;Baixada Fluminense;2024;120;outlier_sup
+60;Baixada Fluminense;2024;111;outlier_sup
+64;Baixada Fluminense;2024;75;outlier_sup
+21;Capital;2024;109;outlier_sup
+24;Capital;2024;80;outlier_sup
+27;Capital;2024;158;outlier_sup
+29;Capital;2024;107;outlier_sup
+33;Capital;2024;69;outlier_sup
+34;Capital;2024;66;outlier_sup
+38;Capital;2024;75;outlier_sup
+39;Capital;2024;90;outlier_sup
+44;Capital;2024;95;outlier_sup
+52;Baixada Fluminense;2024;71;outlier_sup
+54;Baixada Fluminense;2024;124;outlier_sup
+59;Baixada Fluminense;2024;138;outlier_sup
+60;Baixada Fluminense;2024;97;outlier_sup
+64;Baixada Fluminense;2024;93;outlier_sup
+27;Capital;2024;84;outlier_sup
+29;Capital;2024;103;outlier_sup
+33;Capital;2024;64;outlier_sup
+34;Capital;2024;69;outlier_sup
+35;Capital;2024;64;outlier_sup
+38;Capital;2024;73;outlier_sup
+39;Capital;2024;107;outlier_sup
+44;Capital;2024;79;outlier_sup
+52;Baixada Fluminense;2024;71;outlier_sup
+54;Baixada Fluminense;2024;118;outlier_sup
+56;Baixada Fluminense;2024;62;outlier_sup
+58;Baixada Fluminense;2024;63;outlier_sup
+59;Baixada Fluminense;2024;117;outlier_sup
+60;Baixada Fluminense;2024;95;outlier_sup
+64;Baixada Fluminense;2024;94;outlier_sup
+18;Capital;2024;63;outlier_sup
+21;Capital;2024;128;outlier_sup
+22;Capital;2024;79;outlier_sup
+27;Capital;2024;99;outlier_sup
+29;Capital;2024;94;outlier_sup
+38;Capital;2024;119;outlier_sup
+39;Capital;2024;89;outlier_sup
+40;Capital;2024;63;outlier_sup
+52;Baixada Fluminense;2024;80;outlier_sup
+54;Baixada Fluminense;2024;106;outlier_sup
+58;Baixada Fluminense;2024;84;outlier_sup
+59;Baixada Fluminense;2024;141;outlier_sup
+60;Baixada Fluminense;2024;100;outlier_sup
+64;Baixada Fluminense;2024;91;outlier_sup
+21;Capital;2024;69;outlier_sup
+27;Capital;2024;96;outlier_sup
+29;Capital;2024;68;outlier_sup
+31;Capital;2024;62;outlier_sup
+38;Capital;2024;75;outlier_sup
+39;Capital;2024;81;outlier_sup
+52;Baixada Fluminense;2024;96;outlier_sup
+54;Baixada Fluminense;2024;146;outlier_sup
+58;Baixada Fluminense;2024;83;outlier_sup
+59;Baixada Fluminense;2024;145;outlier_sup
+60;Baixada Fluminense;2024;120;outlier_sup
+64;Baixada Fluminense;2024;106;outlier_sup
+21;Capital;2024;63;outlier_sup
+24;Capital;2024;65;outlier_sup
+27;Capital;2024;143;outlier_sup
+29;Capital;2024;87;outlier_sup
+38;Capital;2024;80;outlier_sup
+39;Capital;2024;65;outlier_sup
+52;Baixada Fluminense;2024;79;outlier_sup
+54;Baixada Fluminense;2024;181;outlier_sup
+58;Baixada Fluminense;2024;64;outlier_sup
+59;Baixada Fluminense;2024;119;outlier_sup
+60;Baixada Fluminense;2024;132;outlier_sup
+64;Baixada Fluminense;2024;111;outlier_sup
